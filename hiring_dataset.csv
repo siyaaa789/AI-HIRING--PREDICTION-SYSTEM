@@ -1,0 +1,1001 @@
+Resume_ID,Name,Skills,Experience (Years),Education,Certifications,Job Role,Recruiter Decision,Salary Expectation ($),Projects Count
+RES-00001,Candidate 0001,"Python, Scikit-learn, SQL",1.5,PhD,1,Software Developer,Reject,61718,6
+RES-00002,Candidate 0002,"JavaScript, React, HTML, CSS",4.1,Bachelor's,3,Cybersecurity Analyst,Reject,88786,3
+RES-00003,Candidate 0003,"Java, HTML, CSS",0.0,Master's,4,Data Analyst,Hire,60771,5
+RES-00004,Candidate 0004,"Python, Scikit-learn, SQL",7.0,Bachelor's,2,Cybersecurity Analyst,Reject,56626,10
+RES-00005,Candidate 0005,"Python, Networking, Linux",5.1,Bachelor's,3,Software Developer,Hire,89843,4
+RES-00006,Candidate 0006,"Python, Networking, Linux",2.8,Bachelor's,3,Cybersecurity Analyst,Hire,62647,4
+RES-00007,Candidate 0007,"Java, HTML, CSS",2.7,Bachelor's,5,Software Developer,Hire,70435,6
+RES-00008,Candidate 0008,"Python, SQL, Pandas",4.3,PhD,2,Web Developer,Hire,54350,4
+RES-00009,Candidate 0009,"Python, SQL, Pandas",2.8,Bachelor's,0,Software Developer,Reject,25000,2
+RES-00010,Candidate 0010,"Python, Networking, Linux",2.9,Bachelor's,1,Cybersecurity Analyst,Reject,73950,5
+RES-00011,Candidate 0011,"Java, HTML, CSS",5.3,Bachelor's,2,ML Engineer,Hire,48975,7
+RES-00012,Candidate 0012,"Java, HTML, CSS",4.8,Master's,1,ML Engineer,Reject,93151,4
+RES-00013,Candidate 0013,"Python, Networking, Linux",3.3,Bachelor's,1,Cybersecurity Analyst,Hire,38716,3
+RES-00014,Candidate 0014,"JavaScript, React, HTML, CSS",3.3,Bachelor's,1,Cybersecurity Analyst,Hire,36177,3
+RES-00015,Candidate 0015,"Python, SQL, Pandas",3.9,Bachelor's,3,ML Engineer,Reject,87062,2
+RES-00016,Candidate 0016,"Python, Networking, Linux",2.0,Bachelor's,0,ML Engineer,Reject,78259,3
+RES-00017,Candidate 0017,"Python, Networking, Linux",2.5,Bachelor's,2,Software Developer,Hire,52497,5
+RES-00018,Candidate 0018,"Python, Scikit-learn, SQL",4.9,Bachelor's,1,ML Engineer,Hire,49623,1
+RES-00019,Candidate 0019,"JavaScript, React, HTML, CSS",3.2,Bachelor's,2,Web Developer,Hire,48240,5
+RES-00020,Candidate 0020,"Python, Networking, Linux",0.1,Master's,1,Data Analyst,Hire,79570,3
+RES-00021,Candidate 0021,"Java, HTML, CSS",2.3,Master's,2,Cybersecurity Analyst,Reject,73696,2
+RES-00022,Candidate 0022,"Python, Scikit-learn, SQL",5.1,Master's,1,Cybersecurity Analyst,Hire,90318,4
+RES-00023,Candidate 0023,"Python, Networking, Linux",2.9,Bachelor's,3,Cybersecurity Analyst,Reject,62605,7
+RES-00024,Candidate 0024,"Python, Scikit-learn, SQL",3.1,Master's,3,Data Analyst,Hire,58490,9
+RES-00025,Candidate 0025,"Python, Scikit-learn, SQL",5.1,Master's,1,Software Developer,Hire,46315,3
+RES-00026,Candidate 0026,"JavaScript, React, HTML, CSS",8.1,Bachelor's,5,Data Analyst,Hire,50977,2
+RES-00027,Candidate 0027,"Python, Networking, Linux",1.7,Master's,1,Software Developer,Reject,70878,3
+RES-00028,Candidate 0028,"JavaScript, React, HTML, CSS",6.9,Bachelor's,3,Data Analyst,Hire,41934,2
+RES-00029,Candidate 0029,"Python, SQL, Pandas",0.4,Bachelor's,2,Cybersecurity Analyst,Hire,41064,2
+RES-00030,Candidate 0030,"Python, SQL, Pandas",3.9,Bachelor's,0,Software Developer,Reject,70344,4
+RES-00031,Candidate 0031,"Python, Scikit-learn, SQL",0.6,Bachelor's,4,Software Developer,Hire,59862,4
+RES-00032,Candidate 0032,"Python, Networking, Linux",6.9,Master's,4,Software Developer,Reject,56623,7
+RES-00033,Candidate 0033,"Python, Networking, Linux",5.6,Bachelor's,3,Web Developer,Hire,52621,6
+RES-00034,Candidate 0034,"Python, Networking, Linux",6.3,Bachelor's,3,Software Developer,Hire,44630,1
+RES-00035,Candidate 0035,"Python, Scikit-learn, SQL",1.3,Bachelor's,3,Web Developer,Hire,56142,6
+RES-00036,Candidate 0036,"Python, Scikit-learn, SQL",5.2,Master's,2,Cybersecurity Analyst,Reject,55971,1
+RES-00037,Candidate 0037,"Python, Networking, Linux",2.2,Bachelor's,4,Data Analyst,Reject,87519,1
+RES-00038,Candidate 0038,"Python, Scikit-learn, SQL",2.4,Bachelor's,1,ML Engineer,Hire,78983,3
+RES-00039,Candidate 0039,"Java, HTML, CSS",4.8,Master's,0,ML Engineer,Hire,47880,5
+RES-00040,Candidate 0040,"Java, HTML, CSS",5.7,Bachelor's,2,Web Developer,Hire,46403,8
+RES-00041,Candidate 0041,"Python, Scikit-learn, SQL",4.0,Bachelor's,0,ML Engineer,Reject,70215,3
+RES-00042,Candidate 0042,"JavaScript, React, HTML, CSS",1.9,Bachelor's,0,Data Analyst,Reject,62870,2
+RES-00043,Candidate 0043,"Python, SQL, Pandas",1.4,Master's,2,ML Engineer,Reject,92558,6
+RES-00044,Candidate 0044,"Python, SQL, Pandas",7.1,Bachelor's,1,Web Developer,Hire,41508,4
+RES-00045,Candidate 0045,"Java, HTML, CSS",5.0,Bachelor's,4,ML Engineer,Hire,72579,3
+RES-00046,Candidate 0046,"Python, Scikit-learn, SQL",5.3,Bachelor's,2,Web Developer,Hire,37197,2
+RES-00047,Candidate 0047,"Python, Networking, Linux",9.0,Bachelor's,1,Web Developer,Hire,79045,7
+RES-00048,Candidate 0048,"Python, Networking, Linux",1.5,Bachelor's,1,Software Developer,Hire,69751,3
+RES-00049,Candidate 0049,"Python, SQL, Pandas",9.9,Bachelor's,3,Software Developer,Hire,82563,2
+RES-00050,Candidate 0050,"Python, SQL, Pandas",11.4,Master's,4,ML Engineer,Hire,64253,3
+RES-00051,Candidate 0051,"Python, Networking, Linux",7.5,Bachelor's,2,Data Analyst,Hire,78280,9
+RES-00052,Candidate 0052,"Python, Scikit-learn, SQL",5.6,Bachelor's,0,Data Analyst,Reject,68980,5
+RES-00053,Candidate 0053,"Java, HTML, CSS",1.8,Bachelor's,1,Data Analyst,Reject,65510,3
+RES-00054,Candidate 0054,"Python, Scikit-learn, SQL",6.0,Master's,1,Data Analyst,Hire,93837,5
+RES-00055,Candidate 0055,"Java, HTML, CSS",2.4,Bachelor's,0,Web Developer,Reject,91289,5
+RES-00056,Candidate 0056,"JavaScript, React, HTML, CSS",3.4,Master's,0,Software Developer,Hire,94487,3
+RES-00057,Candidate 0057,"Java, HTML, CSS",2.8,Bachelor's,3,Data Analyst,Reject,78922,5
+RES-00058,Candidate 0058,"Java, HTML, CSS",4.2,Bachelor's,2,Data Analyst,Hire,60358,2
+RES-00059,Candidate 0059,"Java, HTML, CSS",6.7,Bachelor's,5,Web Developer,Hire,47637,2
+RES-00060,Candidate 0060,"Python, Scikit-learn, SQL",2.1,Bachelor's,0,Data Analyst,Reject,59705,4
+RES-00061,Candidate 0061,"Java, HTML, CSS",1.0,Master's,0,Data Analyst,Reject,42492,4
+RES-00062,Candidate 0062,"Python, SQL, Pandas",1.0,Bachelor's,1,ML Engineer,Hire,50523,3
+RES-00063,Candidate 0063,"Python, Scikit-learn, SQL",1.1,Master's,2,Software Developer,Hire,67396,4
+RES-00064,Candidate 0064,"Python, Scikit-learn, SQL",0.0,Bachelor's,3,Data Analyst,Reject,63371,6
+RES-00065,Candidate 0065,"Python, SQL, Pandas",1.2,Bachelor's,3,Web Developer,Reject,66807,5
+RES-00066,Candidate 0066,"Python, Networking, Linux",6.7,PhD,1,Data Analyst,Hire,70502,3
+RES-00067,Candidate 0067,"Python, Scikit-learn, SQL",2.0,Master's,2,Web Developer,Reject,96070,4
+RES-00068,Candidate 0068,"JavaScript, React, HTML, CSS",4.1,PhD,2,ML Engineer,Reject,60828,1
+RES-00069,Candidate 0069,"Python, Networking, Linux",0.5,Bachelor's,1,ML Engineer,Hire,30448,6
+RES-00070,Candidate 0070,"Java, HTML, CSS",3.9,Master's,5,Software Developer,Reject,71942,3
+RES-00071,Candidate 0071,"Python, Scikit-learn, SQL",0.0,Bachelor's,3,Cybersecurity Analyst,Hire,76734,9
+RES-00072,Candidate 0072,"Python, Networking, Linux",1.8,Bachelor's,3,ML Engineer,Reject,79023,2
+RES-00073,Candidate 0073,"Python, Scikit-learn, SQL",9.1,Bachelor's,2,Software Developer,Hire,118346,9
+RES-00074,Candidate 0074,"Java, HTML, CSS",2.0,Bachelor's,3,ML Engineer,Reject,35030,2
+RES-00075,Candidate 0075,"Python, Networking, Linux",6.3,Bachelor's,3,Data Analyst,Hire,47716,11
+RES-00076,Candidate 0076,"Python, Networking, Linux",4.6,Bachelor's,1,Software Developer,Reject,70765,2
+RES-00077,Candidate 0077,"Python, Networking, Linux",3.1,Bachelor's,2,Cybersecurity Analyst,Hire,77366,6
+RES-00078,Candidate 0078,"Python, SQL, Pandas",1.9,Bachelor's,3,Cybersecurity Analyst,Hire,80049,2
+RES-00079,Candidate 0079,"Python, SQL, Pandas",6.7,Master's,0,Software Developer,Hire,98377,6
+RES-00080,Candidate 0080,"Python, Networking, Linux",3.1,Master's,3,Cybersecurity Analyst,Hire,50236,6
+RES-00081,Candidate 0081,"Python, SQL, Pandas",7.3,Bachelor's,1,Software Developer,Hire,85281,4
+RES-00082,Candidate 0082,"Java, HTML, CSS",1.7,Bachelor's,4,Data Analyst,Reject,68002,2
+RES-00083,Candidate 0083,"Python, Scikit-learn, SQL",3.6,PhD,3,Web Developer,Hire,99002,9
+RES-00084,Candidate 0084,"Python, Scikit-learn, SQL",4.7,Bachelor's,2,ML Engineer,Reject,53267,8
+RES-00085,Candidate 0085,"Python, Scikit-learn, SQL",4.4,PhD,1,Data Analyst,Hire,64147,1
+RES-00086,Candidate 0086,"Python, Networking, Linux",0.4,Bachelor's,1,Software Developer,Reject,58208,6
+RES-00087,Candidate 0087,"Python, Networking, Linux",1.8,Bachelor's,2,Cybersecurity Analyst,Reject,52584,4
+RES-00088,Candidate 0088,"Python, Networking, Linux",3.0,Bachelor's,9,Data Analyst,Hire,94641,5
+RES-00089,Candidate 0089,"Python, Scikit-learn, SQL",1.4,Bachelor's,5,Software Developer,Hire,76597,6
+RES-00090,Candidate 0090,"Python, Scikit-learn, SQL",5.2,Bachelor's,2,ML Engineer,Hire,92139,2
+RES-00091,Candidate 0091,"Java, HTML, CSS",5.0,Master's,5,Web Developer,Hire,96695,5
+RES-00092,Candidate 0092,"Python, Scikit-learn, SQL",0.0,Bachelor's,3,Cybersecurity Analyst,Hire,63045,9
+RES-00093,Candidate 0093,"Python, Networking, Linux",0.0,Bachelor's,4,Cybersecurity Analyst,Reject,83570,2
+RES-00094,Candidate 0094,"Python, Networking, Linux",0.3,Bachelor's,2,Web Developer,Reject,90158,6
+RES-00095,Candidate 0095,"Python, Networking, Linux",3.8,Bachelor's,3,ML Engineer,Hire,84434,2
+RES-00096,Candidate 0096,"Java, HTML, CSS",8.6,Bachelor's,1,Cybersecurity Analyst,Hire,98536,10
+RES-00097,Candidate 0097,"Python, Scikit-learn, SQL",2.5,Bachelor's,0,Web Developer,Hire,79168,3
+RES-00098,Candidate 0098,"Java, HTML, CSS",4.1,Master's,2,ML Engineer,Reject,27082,0
+RES-00099,Candidate 0099,"Java, HTML, CSS",0.8,Bachelor's,2,Cybersecurity Analyst,Reject,94673,1
+RES-00100,Candidate 0100,"Java, HTML, CSS",0.9,Master's,1,Software Developer,Reject,25000,4
+RES-00101,Candidate 0101,"Python, Networking, Linux",0.0,Bachelor's,1,Data Analyst,Reject,84426,2
+RES-00102,Candidate 0102,"Python, Networking, Linux",3.4,Bachelor's,1,Cybersecurity Analyst,Reject,95680,3
+RES-00103,Candidate 0103,"JavaScript, React, HTML, CSS",5.9,Bachelor's,2,ML Engineer,Hire,39762,4
+RES-00104,Candidate 0104,"Python, Networking, Linux",2.6,Master's,4,Cybersecurity Analyst,Hire,37596,6
+RES-00105,Candidate 0105,"Python, Networking, Linux",7.0,Master's,0,Cybersecurity Analyst,Hire,76303,1
+RES-00106,Candidate 0106,"Java, HTML, CSS",4.0,Master's,3,Web Developer,Reject,84693,6
+RES-00107,Candidate 0107,"Java, HTML, CSS",3.4,Master's,0,Data Analyst,Reject,71669,7
+RES-00108,Candidate 0108,"Python, SQL, Pandas",4.8,Master's,4,ML Engineer,Hire,39213,8
+RES-00109,Candidate 0109,"Python, SQL, Pandas",4.7,Master's,3,ML Engineer,Hire,103632,3
+RES-00110,Candidate 0110,"JavaScript, React, HTML, CSS",6.4,Master's,2,Web Developer,Reject,80666,1
+RES-00111,Candidate 0111,"JavaScript, React, HTML, CSS",1.5,Master's,3,Data Analyst,Hire,36299,5
+RES-00112,Candidate 0112,"Python, Scikit-learn, SQL",0.0,Bachelor's,2,Software Developer,Reject,86788,2
+RES-00113,Candidate 0113,"Java, HTML, CSS",3.8,Bachelor's,3,Web Developer,Reject,25000,3
+RES-00114,Candidate 0114,"JavaScript, React, HTML, CSS",2.0,Bachelor's,1,Web Developer,Reject,79567,2
+RES-00115,Candidate 0115,"Python, SQL, Pandas",3.4,Master's,3,Cybersecurity Analyst,Hire,26076,0
+RES-00116,Candidate 0116,"Python, Networking, Linux",7.7,Bachelor's,5,Data Analyst,Hire,79325,4
+RES-00117,Candidate 0117,"Java, HTML, CSS",0.7,Master's,0,ML Engineer,Reject,75170,2
+RES-00118,Candidate 0118,"Python, Networking, Linux",5.4,Bachelor's,1,Data Analyst,Reject,94766,5
+RES-00119,Candidate 0119,"JavaScript, React, HTML, CSS",5.9,Bachelor's,1,ML Engineer,Reject,72897,6
+RES-00120,Candidate 0120,"Python, SQL, Pandas",4.7,Bachelor's,2,Software Developer,Hire,58042,4
+RES-00121,Candidate 0121,"JavaScript, React, HTML, CSS",6.3,Master's,1,Software Developer,Reject,39698,3
+RES-00122,Candidate 0122,"Python, SQL, Pandas",2.4,Master's,2,Data Analyst,Hire,45691,4
+RES-00123,Candidate 0123,"Python, SQL, Pandas",1.8,Bachelor's,2,Cybersecurity Analyst,Reject,89060,5
+RES-00124,Candidate 0124,"Python, SQL, Pandas",6.1,Master's,0,Software Developer,Reject,71032,4
+RES-00125,Candidate 0125,"Python, SQL, Pandas",5.3,Master's,0,Cybersecurity Analyst,Reject,80114,2
+RES-00126,Candidate 0126,"Python, Scikit-learn, SQL",7.0,Bachelor's,5,Software Developer,Hire,73642,5
+RES-00127,Candidate 0127,"Python, SQL, Pandas",4.0,Master's,3,ML Engineer,Hire,43092,7
+RES-00128,Candidate 0128,"Python, SQL, Pandas",7.6,Master's,2,Software Developer,Hire,71065,2
+RES-00129,Candidate 0129,"JavaScript, React, HTML, CSS",2.8,Bachelor's,0,Software Developer,Reject,56984,4
+RES-00130,Candidate 0130,"Python, Networking, Linux",0.8,Bachelor's,0,Cybersecurity Analyst,Reject,25000,5
+RES-00131,Candidate 0131,"Python, Networking, Linux",0.0,Bachelor's,1,Data Analyst,Reject,85298,2
+RES-00132,Candidate 0132,"JavaScript, React, HTML, CSS",0.7,Bachelor's,1,Web Developer,Reject,55233,5
+RES-00133,Candidate 0133,"Python, Networking, Linux",5.5,Master's,0,Data Analyst,Hire,59648,5
+RES-00134,Candidate 0134,"Python, SQL, Pandas",0.0,Bachelor's,0,Web Developer,Reject,80814,3
+RES-00135,Candidate 0135,"JavaScript, React, HTML, CSS",2.4,Bachelor's,0,Cybersecurity Analyst,Hire,61971,2
+RES-00136,Candidate 0136,"Python, Scikit-learn, SQL",8.8,Bachelor's,6,Data Analyst,Reject,63894,1
+RES-00137,Candidate 0137,"Python, SQL, Pandas",5.6,Bachelor's,2,Cybersecurity Analyst,Reject,104234,3
+RES-00138,Candidate 0138,"Python, Networking, Linux",8.0,Master's,1,Cybersecurity Analyst,Hire,73844,4
+RES-00139,Candidate 0139,"Java, HTML, CSS",1.0,Master's,3,ML Engineer,Hire,88466,5
+RES-00140,Candidate 0140,"Java, HTML, CSS",0.0,Master's,0,Cybersecurity Analyst,Reject,25000,5
+RES-00141,Candidate 0141,"Python, Networking, Linux",7.3,Bachelor's,1,Web Developer,Hire,68057,3
+RES-00142,Candidate 0142,"Python, Scikit-learn, SQL",0.0,Master's,3,Cybersecurity Analyst,Hire,77921,7
+RES-00143,Candidate 0143,"Python, SQL, Pandas",3.7,Bachelor's,0,Cybersecurity Analyst,Reject,59574,4
+RES-00144,Candidate 0144,"Python, Networking, Linux",4.0,Bachelor's,0,Data Analyst,Hire,96969,4
+RES-00145,Candidate 0145,"Java, HTML, CSS",1.1,PhD,3,Data Analyst,Hire,43960,3
+RES-00146,Candidate 0146,"Java, HTML, CSS",7.4,Bachelor's,1,Software Developer,Hire,79131,2
+RES-00147,Candidate 0147,"Python, Networking, Linux",7.4,Master's,5,Software Developer,Hire,61330,4
+RES-00148,Candidate 0148,"Python, Scikit-learn, SQL",4.9,Bachelor's,1,Cybersecurity Analyst,Hire,36110,2
+RES-00149,Candidate 0149,"Java, HTML, CSS",3.4,Bachelor's,2,Software Developer,Hire,66273,6
+RES-00150,Candidate 0150,"JavaScript, React, HTML, CSS",4.0,Bachelor's,1,Web Developer,Hire,58834,7
+RES-00151,Candidate 0151,"Python, SQL, Pandas",0.8,Bachelor's,4,Web Developer,Reject,84024,6
+RES-00152,Candidate 0152,"Java, HTML, CSS",2.9,Bachelor's,2,Cybersecurity Analyst,Hire,63847,4
+RES-00153,Candidate 0153,"Java, HTML, CSS",3.2,Master's,1,Web Developer,Hire,90348,2
+RES-00154,Candidate 0154,"Python, SQL, Pandas",1.4,Bachelor's,2,Software Developer,Hire,46248,2
+RES-00155,Candidate 0155,"Java, HTML, CSS",5.6,Bachelor's,1,Web Developer,Hire,60138,5
+RES-00156,Candidate 0156,"Python, Networking, Linux",0.0,Bachelor's,3,Cybersecurity Analyst,Reject,25000,3
+RES-00157,Candidate 0157,"Python, SQL, Pandas",2.4,Master's,1,Cybersecurity Analyst,Reject,82976,2
+RES-00158,Candidate 0158,"JavaScript, React, HTML, CSS",0.0,Bachelor's,1,Cybersecurity Analyst,Hire,25000,8
+RES-00159,Candidate 0159,"Python, Scikit-learn, SQL",4.7,Bachelor's,0,ML Engineer,Reject,96694,6
+RES-00160,Candidate 0160,"Python, Networking, Linux",5.4,Master's,3,Software Developer,Hire,66301,3
+RES-00161,Candidate 0161,"Java, HTML, CSS",5.1,Bachelor's,1,Cybersecurity Analyst,Reject,48920,5
+RES-00162,Candidate 0162,"Python, Networking, Linux",10.8,Master's,1,Web Developer,Reject,79520,4
+RES-00163,Candidate 0163,"Python, SQL, Pandas",5.8,Master's,1,Software Developer,Hire,71621,3
+RES-00164,Candidate 0164,"Python, Scikit-learn, SQL",1.1,Master's,0,Cybersecurity Analyst,Hire,25000,6
+RES-00165,Candidate 0165,"Python, Scikit-learn, SQL",10.2,Bachelor's,4,Software Developer,Hire,83032,3
+RES-00166,Candidate 0166,"Python, SQL, Pandas",1.2,Master's,6,Data Analyst,Hire,110292,4
+RES-00167,Candidate 0167,"JavaScript, React, HTML, CSS",5.5,Bachelor's,2,Software Developer,Hire,26489,4
+RES-00168,Candidate 0168,"JavaScript, React, HTML, CSS",5.4,Master's,2,Software Developer,Reject,70769,4
+RES-00169,Candidate 0169,"JavaScript, React, HTML, CSS",1.3,Master's,1,Data Analyst,Hire,96310,5
+RES-00170,Candidate 0170,"Python, Networking, Linux",7.0,Master's,2,Web Developer,Hire,59110,7
+RES-00171,Candidate 0171,"Python, Scikit-learn, SQL",4.4,Bachelor's,3,Software Developer,Reject,25000,3
+RES-00172,Candidate 0172,"Python, Networking, Linux",4.9,Bachelor's,1,Data Analyst,Reject,68045,4
+RES-00173,Candidate 0173,"Python, SQL, Pandas",1.8,Bachelor's,1,Web Developer,Reject,84925,5
+RES-00174,Candidate 0174,"JavaScript, React, HTML, CSS",6.8,PhD,2,Cybersecurity Analyst,Hire,46814,4
+RES-00175,Candidate 0175,"JavaScript, React, HTML, CSS",1.3,Master's,1,Software Developer,Hire,25000,3
+RES-00176,Candidate 0176,"JavaScript, React, HTML, CSS",0.0,Bachelor's,1,Web Developer,Reject,25000,2
+RES-00177,Candidate 0177,"Python, SQL, Pandas",7.1,Master's,0,Software Developer,Hire,35102,9
+RES-00178,Candidate 0178,"Python, Scikit-learn, SQL",2.4,Master's,1,Software Developer,Hire,86173,2
+RES-00179,Candidate 0179,"Python, Scikit-learn, SQL",3.6,Bachelor's,1,Data Analyst,Hire,49639,8
+RES-00180,Candidate 0180,"Python, SQL, Pandas",8.3,Bachelor's,2,ML Engineer,Hire,59107,5
+RES-00181,Candidate 0181,"Python, SQL, Pandas",6.3,Bachelor's,1,ML Engineer,Hire,75099,2
+RES-00182,Candidate 0182,"Python, Scikit-learn, SQL",5.1,PhD,3,Cybersecurity Analyst,Hire,25000,8
+RES-00183,Candidate 0183,"Python, Networking, Linux",6.2,Master's,2,Web Developer,Reject,59384,6
+RES-00184,Candidate 0184,"Python, Networking, Linux",1.7,Bachelor's,0,Cybersecurity Analyst,Reject,56020,5
+RES-00185,Candidate 0185,"JavaScript, React, HTML, CSS",5.4,Bachelor's,1,Web Developer,Hire,66052,6
+RES-00186,Candidate 0186,"JavaScript, React, HTML, CSS",6.3,Bachelor's,5,Data Analyst,Hire,62711,4
+RES-00187,Candidate 0187,"Python, Scikit-learn, SQL",5.4,Master's,2,Data Analyst,Reject,51996,5
+RES-00188,Candidate 0188,"Java, HTML, CSS",3.0,Bachelor's,3,ML Engineer,Reject,53107,2
+RES-00189,Candidate 0189,"Python, Scikit-learn, SQL",0.0,Master's,4,Web Developer,Reject,65031,1
+RES-00190,Candidate 0190,"Python, Networking, Linux",4.9,Master's,2,Data Analyst,Hire,48817,3
+RES-00191,Candidate 0191,"JavaScript, React, HTML, CSS",3.8,Master's,0,Web Developer,Reject,98410,1
+RES-00192,Candidate 0192,"Python, SQL, Pandas",2.6,Bachelor's,2,ML Engineer,Reject,92520,7
+RES-00193,Candidate 0193,"Java, HTML, CSS",5.4,PhD,3,Cybersecurity Analyst,Hire,77532,2
+RES-00194,Candidate 0194,"Java, HTML, CSS",4.2,PhD,6,Data Analyst,Hire,60133,7
+RES-00195,Candidate 0195,"Python, SQL, Pandas",4.0,Bachelor's,3,Cybersecurity Analyst,Reject,60609,7
+RES-00196,Candidate 0196,"JavaScript, React, HTML, CSS",0.0,Bachelor's,2,Web Developer,Reject,85207,4
+RES-00197,Candidate 0197,"Java, HTML, CSS",0.0,Bachelor's,3,Software Developer,Reject,68015,5
+RES-00198,Candidate 0198,"Python, SQL, Pandas",4.4,Bachelor's,4,Data Analyst,Reject,46967,2
+RES-00199,Candidate 0199,"Python, Scikit-learn, SQL",3.7,Bachelor's,1,Cybersecurity Analyst,Reject,72964,7
+RES-00200,Candidate 0200,"JavaScript, React, HTML, CSS",3.8,Master's,1,Software Developer,Hire,74352,1
+RES-00201,Candidate 0201,"Python, Scikit-learn, SQL",3.9,Bachelor's,2,ML Engineer,Hire,73737,2
+RES-00202,Candidate 0202,"Python, Networking, Linux",4.5,Bachelor's,2,Data Analyst,Reject,43679,6
+RES-00203,Candidate 0203,"Python, Networking, Linux",3.6,Bachelor's,1,Web Developer,Hire,41259,0
+RES-00204,Candidate 0204,"Java, HTML, CSS",3.9,Bachelor's,0,Software Developer,Hire,51335,5
+RES-00205,Candidate 0205,"Python, Scikit-learn, SQL",4.1,Bachelor's,3,Software Developer,Hire,43339,7
+RES-00206,Candidate 0206,"Java, HTML, CSS",5.8,Master's,1,Cybersecurity Analyst,Reject,36575,2
+RES-00207,Candidate 0207,"Python, Scikit-learn, SQL",2.2,Bachelor's,3,Web Developer,Hire,83292,7
+RES-00208,Candidate 0208,"Java, HTML, CSS",5.5,Master's,1,ML Engineer,Reject,57489,3
+RES-00209,Candidate 0209,"Python, Scikit-learn, SQL",5.1,Bachelor's,2,Web Developer,Hire,58964,6
+RES-00210,Candidate 0210,"Python, SQL, Pandas",3.8,PhD,3,Software Developer,Hire,63130,5
+RES-00211,Candidate 0211,"Python, Scikit-learn, SQL",2.3,PhD,2,Cybersecurity Analyst,Hire,25000,6
+RES-00212,Candidate 0212,"JavaScript, React, HTML, CSS",4.4,Bachelor's,1,Cybersecurity Analyst,Reject,77565,1
+RES-00213,Candidate 0213,"Python, SQL, Pandas",5.7,Master's,1,Software Developer,Reject,59657,6
+RES-00214,Candidate 0214,"JavaScript, React, HTML, CSS",0.8,Bachelor's,2,Cybersecurity Analyst,Hire,41546,3
+RES-00215,Candidate 0215,"Python, Networking, Linux",3.7,Master's,2,Web Developer,Reject,56387,3
+RES-00216,Candidate 0216,"Java, HTML, CSS",3.7,Bachelor's,1,Software Developer,Reject,83639,5
+RES-00217,Candidate 0217,"JavaScript, React, HTML, CSS",1.8,Bachelor's,2,Web Developer,Reject,60766,5
+RES-00218,Candidate 0218,"JavaScript, React, HTML, CSS",2.0,Bachelor's,2,Cybersecurity Analyst,Hire,95688,5
+RES-00219,Candidate 0219,"Java, HTML, CSS",0.0,Bachelor's,3,Software Developer,Reject,94368,6
+RES-00220,Candidate 0220,"Python, Networking, Linux",0.7,Master's,1,Software Developer,Reject,99497,7
+RES-00221,Candidate 0221,"Python, Networking, Linux",0.0,Master's,1,ML Engineer,Reject,76176,5
+RES-00222,Candidate 0222,"Python, Networking, Linux",2.0,Bachelor's,1,ML Engineer,Hire,80520,9
+RES-00223,Candidate 0223,"Python, Networking, Linux",2.1,Bachelor's,3,Software Developer,Reject,26131,5
+RES-00224,Candidate 0224,"Java, HTML, CSS",2.1,Master's,1,Software Developer,Hire,55378,5
+RES-00225,Candidate 0225,"JavaScript, React, HTML, CSS",4.4,Bachelor's,2,Software Developer,Hire,86723,5
+RES-00226,Candidate 0226,"Python, Networking, Linux",3.0,Bachelor's,3,Software Developer,Hire,75669,8
+RES-00227,Candidate 0227,"Python, Scikit-learn, SQL",1.7,Bachelor's,2,Web Developer,Hire,25000,4
+RES-00228,Candidate 0228,"Python, Scikit-learn, SQL",1.7,Master's,2,ML Engineer,Hire,59206,6
+RES-00229,Candidate 0229,"Python, SQL, Pandas",0.7,Bachelor's,4,Data Analyst,Reject,52914,8
+RES-00230,Candidate 0230,"Java, HTML, CSS",3.0,Bachelor's,0,ML Engineer,Hire,71815,6
+RES-00231,Candidate 0231,"Python, Networking, Linux",3.0,PhD,4,ML Engineer,Hire,53476,4
+RES-00232,Candidate 0232,"Python, Scikit-learn, SQL",7.6,Bachelor's,2,Web Developer,Hire,56931,6
+RES-00233,Candidate 0233,"Python, SQL, Pandas",7.3,Master's,2,Data Analyst,Reject,65364,4
+RES-00234,Candidate 0234,"Python, SQL, Pandas",7.2,Master's,1,Data Analyst,Hire,61511,4
+RES-00235,Candidate 0235,"JavaScript, React, HTML, CSS",8.7,Bachelor's,3,Web Developer,Hire,72655,2
+RES-00236,Candidate 0236,"Python, Scikit-learn, SQL",0.5,Master's,1,Data Analyst,Reject,39074,2
+RES-00237,Candidate 0237,"Java, HTML, CSS",5.2,Bachelor's,5,Software Developer,Hire,67543,10
+RES-00238,Candidate 0238,"JavaScript, React, HTML, CSS",5.4,Bachelor's,4,Cybersecurity Analyst,Hire,72016,5
+RES-00239,Candidate 0239,"Java, HTML, CSS",4.7,Master's,0,ML Engineer,Hire,40292,5
+RES-00240,Candidate 0240,"Python, SQL, Pandas",8.8,Bachelor's,4,Web Developer,Hire,62675,5
+RES-00241,Candidate 0241,"Python, SQL, Pandas",9.8,PhD,2,Cybersecurity Analyst,Hire,89822,8
+RES-00242,Candidate 0242,"Python, Networking, Linux",5.9,PhD,1,ML Engineer,Hire,72270,4
+RES-00243,Candidate 0243,"Python, SQL, Pandas",5.1,Bachelor's,2,Software Developer,Hire,72352,6
+RES-00244,Candidate 0244,"JavaScript, React, HTML, CSS",0.7,Bachelor's,2,Cybersecurity Analyst,Hire,40137,4
+RES-00245,Candidate 0245,"Java, HTML, CSS",0.7,Bachelor's,0,Web Developer,Reject,96432,5
+RES-00246,Candidate 0246,"Python, Networking, Linux",5.3,Master's,2,Data Analyst,Reject,42249,7
+RES-00247,Candidate 0247,"Python, SQL, Pandas",3.3,Bachelor's,1,ML Engineer,Hire,64943,3
+RES-00248,Candidate 0248,"Python, Networking, Linux",0.2,PhD,1,Software Developer,Hire,51270,9
+RES-00249,Candidate 0249,"Python, SQL, Pandas",3.2,Bachelor's,1,Data Analyst,Hire,59756,3
+RES-00250,Candidate 0250,"JavaScript, React, HTML, CSS",4.4,Master's,3,Web Developer,Hire,93243,7
+RES-00251,Candidate 0251,"Java, HTML, CSS",5.8,Bachelor's,2,Cybersecurity Analyst,Hire,81657,2
+RES-00252,Candidate 0252,"Python, Scikit-learn, SQL",3.2,Master's,0,Software Developer,Hire,76545,5
+RES-00253,Candidate 0253,"Python, SQL, Pandas",2.8,Bachelor's,3,Software Developer,Reject,80274,4
+RES-00254,Candidate 0254,"JavaScript, React, HTML, CSS",3.5,Bachelor's,2,ML Engineer,Hire,98882,5
+RES-00255,Candidate 0255,"JavaScript, React, HTML, CSS",3.9,Bachelor's,5,Data Analyst,Hire,25000,2
+RES-00256,Candidate 0256,"Java, HTML, CSS",0.6,Master's,3,Data Analyst,Hire,31055,4
+RES-00257,Candidate 0257,"Python, Networking, Linux",5.6,Bachelor's,4,Data Analyst,Hire,62859,6
+RES-00258,Candidate 0258,"Python, Networking, Linux",9.0,Master's,2,Software Developer,Hire,27623,7
+RES-00259,Candidate 0259,"Python, SQL, Pandas",5.5,PhD,5,Data Analyst,Hire,83595,6
+RES-00260,Candidate 0260,"Python, SQL, Pandas",0.0,Master's,2,Software Developer,Reject,57206,1
+RES-00261,Candidate 0261,"Python, SQL, Pandas",3.7,Bachelor's,2,ML Engineer,Hire,69616,2
+RES-00262,Candidate 0262,"Python, SQL, Pandas",0.0,Master's,2,Cybersecurity Analyst,Reject,70722,1
+RES-00263,Candidate 0263,"Python, Scikit-learn, SQL",0.0,Bachelor's,2,Web Developer,Reject,75841,1
+RES-00264,Candidate 0264,"JavaScript, React, HTML, CSS",5.1,Bachelor's,1,Cybersecurity Analyst,Reject,79832,6
+RES-00265,Candidate 0265,"Python, Scikit-learn, SQL",3.7,Bachelor's,2,Data Analyst,Hire,43464,4
+RES-00266,Candidate 0266,"Java, HTML, CSS",1.8,Bachelor's,1,Software Developer,Hire,44835,9
+RES-00267,Candidate 0267,"Java, HTML, CSS",0.0,Bachelor's,2,ML Engineer,Hire,61499,3
+RES-00268,Candidate 0268,"Python, SQL, Pandas",0.3,Bachelor's,2,Software Developer,Hire,64432,3
+RES-00269,Candidate 0269,"Python, Scikit-learn, SQL",3.9,Master's,2,ML Engineer,Reject,52707,3
+RES-00270,Candidate 0270,"Python, Scikit-learn, SQL",3.6,Bachelor's,3,Data Analyst,Hire,36093,3
+RES-00271,Candidate 0271,"Java, HTML, CSS",5.2,Master's,3,Software Developer,Reject,29534,2
+RES-00272,Candidate 0272,"Java, HTML, CSS",7.3,Master's,2,Data Analyst,Hire,66652,2
+RES-00273,Candidate 0273,"JavaScript, React, HTML, CSS",2.7,Master's,3,Data Analyst,Hire,118089,7
+RES-00274,Candidate 0274,"JavaScript, React, HTML, CSS",4.7,Bachelor's,1,Cybersecurity Analyst,Reject,93025,3
+RES-00275,Candidate 0275,"Java, HTML, CSS",3.2,PhD,2,Data Analyst,Reject,64155,4
+RES-00276,Candidate 0276,"Python, Scikit-learn, SQL",2.3,Bachelor's,4,Data Analyst,Hire,139416,4
+RES-00277,Candidate 0277,"Java, HTML, CSS",2.9,Master's,3,Data Analyst,Hire,40926,6
+RES-00278,Candidate 0278,"Java, HTML, CSS",5.9,Master's,2,Software Developer,Hire,48363,4
+RES-00279,Candidate 0279,"JavaScript, React, HTML, CSS",0.9,Bachelor's,2,Data Analyst,Hire,52761,5
+RES-00280,Candidate 0280,"Python, Networking, Linux",6.4,Bachelor's,2,Data Analyst,Hire,71474,3
+RES-00281,Candidate 0281,"Python, SQL, Pandas",7.2,Bachelor's,2,Cybersecurity Analyst,Hire,102868,5
+RES-00282,Candidate 0282,"JavaScript, React, HTML, CSS",3.6,Bachelor's,2,Cybersecurity Analyst,Hire,43789,4
+RES-00283,Candidate 0283,"Python, Scikit-learn, SQL",4.1,Master's,0,ML Engineer,Hire,71487,4
+RES-00284,Candidate 0284,"JavaScript, React, HTML, CSS",0.0,Bachelor's,2,ML Engineer,Reject,110756,2
+RES-00285,Candidate 0285,"Java, HTML, CSS",9.4,Master's,4,Software Developer,Hire,25000,7
+RES-00286,Candidate 0286,"Python, Networking, Linux",5.9,Master's,6,ML Engineer,Hire,75820,4
+RES-00287,Candidate 0287,"Python, SQL, Pandas",3.9,Master's,3,Data Analyst,Hire,60776,6
+RES-00288,Candidate 0288,"Python, Scikit-learn, SQL",3.6,Master's,1,ML Engineer,Reject,78731,7
+RES-00289,Candidate 0289,"Python, Scikit-learn, SQL",4.6,Master's,1,Data Analyst,Reject,26628,3
+RES-00290,Candidate 0290,"Java, HTML, CSS",1.9,Bachelor's,2,Data Analyst,Hire,95655,5
+RES-00291,Candidate 0291,"Java, HTML, CSS",4.2,Bachelor's,2,Software Developer,Hire,51287,5
+RES-00292,Candidate 0292,"Java, HTML, CSS",1.2,Bachelor's,2,ML Engineer,Reject,77849,4
+RES-00293,Candidate 0293,"Python, SQL, Pandas",4.7,Bachelor's,1,ML Engineer,Reject,69491,6
+RES-00294,Candidate 0294,"Java, HTML, CSS",1.8,Bachelor's,2,Data Analyst,Reject,52756,4
+RES-00295,Candidate 0295,"Java, HTML, CSS",5.7,Bachelor's,1,ML Engineer,Reject,87630,4
+RES-00296,Candidate 0296,"Java, HTML, CSS",3.2,Master's,2,ML Engineer,Hire,29544,7
+RES-00297,Candidate 0297,"Python, SQL, Pandas",4.2,Bachelor's,2,Web Developer,Hire,25000,7
+RES-00298,Candidate 0298,"JavaScript, React, HTML, CSS",10.9,Bachelor's,2,Web Developer,Hire,47608,5
+RES-00299,Candidate 0299,"Python, SQL, Pandas",5.5,Master's,3,Data Analyst,Hire,38520,3
+RES-00300,Candidate 0300,"Python, Networking, Linux",4.2,Master's,1,Data Analyst,Hire,45999,2
+RES-00301,Candidate 0301,"Python, Networking, Linux",3.6,Bachelor's,3,Software Developer,Reject,78261,2
+RES-00302,Candidate 0302,"JavaScript, React, HTML, CSS",0.9,Bachelor's,1,Web Developer,Reject,58929,4
+RES-00303,Candidate 0303,"JavaScript, React, HTML, CSS",6.2,Bachelor's,1,ML Engineer,Reject,69256,3
+RES-00304,Candidate 0304,"Python, SQL, Pandas",7.5,Master's,4,Web Developer,Hire,70151,4
+RES-00305,Candidate 0305,"JavaScript, React, HTML, CSS",3.7,Bachelor's,2,Software Developer,Hire,84752,5
+RES-00306,Candidate 0306,"JavaScript, React, HTML, CSS",7.7,Bachelor's,3,Data Analyst,Hire,71795,6
+RES-00307,Candidate 0307,"JavaScript, React, HTML, CSS",3.2,Bachelor's,1,Web Developer,Reject,56177,8
+RES-00308,Candidate 0308,"Python, SQL, Pandas",0.0,Master's,2,ML Engineer,Hire,45690,4
+RES-00309,Candidate 0309,"Java, HTML, CSS",1.9,Bachelor's,0,Web Developer,Hire,36755,6
+RES-00310,Candidate 0310,"JavaScript, React, HTML, CSS",0.9,Bachelor's,3,Software Developer,Reject,71885,7
+RES-00311,Candidate 0311,"JavaScript, React, HTML, CSS",2.8,Bachelor's,6,Cybersecurity Analyst,Hire,72856,2
+RES-00312,Candidate 0312,"Python, SQL, Pandas",5.1,Bachelor's,2,Cybersecurity Analyst,Reject,33414,6
+RES-00313,Candidate 0313,"JavaScript, React, HTML, CSS",1.2,Bachelor's,4,Web Developer,Reject,38855,3
+RES-00314,Candidate 0314,"Python, Networking, Linux",3.3,Master's,1,Data Analyst,Hire,88143,4
+RES-00315,Candidate 0315,"Python, SQL, Pandas",4.0,Master's,1,ML Engineer,Hire,53239,6
+RES-00316,Candidate 0316,"Python, SQL, Pandas",1.7,Bachelor's,2,ML Engineer,Reject,69894,3
+RES-00317,Candidate 0317,"Python, Scikit-learn, SQL",1.2,PhD,3,Software Developer,Hire,46005,10
+RES-00318,Candidate 0318,"Python, Networking, Linux",3.7,Bachelor's,3,Web Developer,Hire,58365,4
+RES-00319,Candidate 0319,"Python, SQL, Pandas",5.7,Master's,6,Data Analyst,Hire,25969,3
+RES-00320,Candidate 0320,"JavaScript, React, HTML, CSS",2.0,Bachelor's,2,Cybersecurity Analyst,Hire,98863,3
+RES-00321,Candidate 0321,"Python, SQL, Pandas",1.6,Master's,1,Cybersecurity Analyst,Hire,25000,3
+RES-00322,Candidate 0322,"Python, SQL, Pandas",3.1,Bachelor's,1,Cybersecurity Analyst,Reject,85738,5
+RES-00323,Candidate 0323,"Python, Networking, Linux",4.2,Master's,4,Data Analyst,Hire,27825,4
+RES-00324,Candidate 0324,"JavaScript, React, HTML, CSS",2.1,Master's,1,Cybersecurity Analyst,Hire,62540,3
+RES-00325,Candidate 0325,"Python, SQL, Pandas",2.7,Bachelor's,1,Web Developer,Reject,75615,2
+RES-00326,Candidate 0326,"Python, Networking, Linux",2.9,Master's,0,Data Analyst,Hire,36031,8
+RES-00327,Candidate 0327,"Java, HTML, CSS",0.8,PhD,3,ML Engineer,Reject,57442,3
+RES-00328,Candidate 0328,"JavaScript, React, HTML, CSS",3.1,Master's,2,Software Developer,Hire,48058,7
+RES-00329,Candidate 0329,"Python, Networking, Linux",2.1,Bachelor's,1,Cybersecurity Analyst,Reject,67480,4
+RES-00330,Candidate 0330,"Python, SQL, Pandas",7.5,Bachelor's,2,Cybersecurity Analyst,Hire,51004,4
+RES-00331,Candidate 0331,"Python, Networking, Linux",2.2,PhD,2,ML Engineer,Hire,25000,3
+RES-00332,Candidate 0332,"Python, Networking, Linux",4.6,Master's,1,Data Analyst,Hire,76636,3
+RES-00333,Candidate 0333,"Python, SQL, Pandas",4.4,Master's,3,Web Developer,Hire,96735,4
+RES-00334,Candidate 0334,"Python, Networking, Linux",0.7,Bachelor's,2,ML Engineer,Reject,103481,2
+RES-00335,Candidate 0335,"Python, Scikit-learn, SQL",0.4,Bachelor's,3,ML Engineer,Reject,98584,5
+RES-00336,Candidate 0336,"JavaScript, React, HTML, CSS",2.4,Bachelor's,1,Web Developer,Reject,67553,3
+RES-00337,Candidate 0337,"Python, Networking, Linux",5.2,Master's,0,ML Engineer,Reject,60572,3
+RES-00338,Candidate 0338,"JavaScript, React, HTML, CSS",2.1,Bachelor's,3,ML Engineer,Hire,58946,6
+RES-00339,Candidate 0339,"Python, Networking, Linux",1.9,Master's,3,ML Engineer,Hire,88286,1
+RES-00340,Candidate 0340,"Python, Networking, Linux",0.0,Bachelor's,3,ML Engineer,Reject,50092,3
+RES-00341,Candidate 0341,"JavaScript, React, HTML, CSS",2.5,Bachelor's,1,Cybersecurity Analyst,Hire,31172,3
+RES-00342,Candidate 0342,"Python, SQL, Pandas",4.3,Master's,0,Data Analyst,Reject,42782,2
+RES-00343,Candidate 0343,"Python, Scikit-learn, SQL",4.6,Bachelor's,1,ML Engineer,Reject,69000,2
+RES-00344,Candidate 0344,"Python, Networking, Linux",4.6,Bachelor's,3,Cybersecurity Analyst,Hire,71530,5
+RES-00345,Candidate 0345,"JavaScript, React, HTML, CSS",2.7,Bachelor's,2,Data Analyst,Hire,86089,5
+RES-00346,Candidate 0346,"Java, HTML, CSS",2.9,Bachelor's,1,Web Developer,Reject,52181,1
+RES-00347,Candidate 0347,"JavaScript, React, HTML, CSS",5.6,Master's,3,ML Engineer,Hire,60875,7
+RES-00348,Candidate 0348,"JavaScript, React, HTML, CSS",3.2,Master's,1,Web Developer,Hire,80642,4
+RES-00349,Candidate 0349,"Python, Scikit-learn, SQL",0.0,PhD,4,Web Developer,Hire,69073,3
+RES-00350,Candidate 0350,"Python, Networking, Linux",6.1,Bachelor's,2,Cybersecurity Analyst,Reject,63673,6
+RES-00351,Candidate 0351,"Java, HTML, CSS",0.8,Bachelor's,1,Data Analyst,Reject,55235,8
+RES-00352,Candidate 0352,"Python, Scikit-learn, SQL",6.9,Master's,2,Cybersecurity Analyst,Hire,80812,2
+RES-00353,Candidate 0353,"Python, Scikit-learn, SQL",7.7,Bachelor's,2,ML Engineer,Hire,25000,3
+RES-00354,Candidate 0354,"Python, Networking, Linux",5.4,Bachelor's,4,Web Developer,Hire,70807,4
+RES-00355,Candidate 0355,"Python, Networking, Linux",5.8,Bachelor's,2,Software Developer,Reject,92916,5
+RES-00356,Candidate 0356,"JavaScript, React, HTML, CSS",8.1,Bachelor's,2,Data Analyst,Hire,57964,1
+RES-00357,Candidate 0357,"JavaScript, React, HTML, CSS",0.7,Bachelor's,1,Cybersecurity Analyst,Reject,75564,3
+RES-00358,Candidate 0358,"Python, SQL, Pandas",4.1,Master's,2,Web Developer,Hire,54435,1
+RES-00359,Candidate 0359,"JavaScript, React, HTML, CSS",4.1,Master's,4,Data Analyst,Reject,81164,3
+RES-00360,Candidate 0360,"Java, HTML, CSS",1.1,Master's,1,Data Analyst,Reject,61585,5
+RES-00361,Candidate 0361,"JavaScript, React, HTML, CSS",8.5,Master's,3,ML Engineer,Hire,74124,7
+RES-00362,Candidate 0362,"Python, Networking, Linux",2.0,Bachelor's,3,Cybersecurity Analyst,Reject,62818,0
+RES-00363,Candidate 0363,"Python, Scikit-learn, SQL",1.7,Master's,0,ML Engineer,Reject,80941,6
+RES-00364,Candidate 0364,"Python, Networking, Linux",4.2,Bachelor's,1,Cybersecurity Analyst,Hire,83223,3
+RES-00365,Candidate 0365,"Python, Networking, Linux",6.1,Bachelor's,1,Data Analyst,Reject,58976,2
+RES-00366,Candidate 0366,"Python, SQL, Pandas",2.0,Master's,4,ML Engineer,Hire,42560,5
+RES-00367,Candidate 0367,"Java, HTML, CSS",2.0,Bachelor's,4,Software Developer,Hire,44122,9
+RES-00368,Candidate 0368,"Python, Networking, Linux",4.8,Bachelor's,1,Web Developer,Reject,26547,4
+RES-00369,Candidate 0369,"Python, Scikit-learn, SQL",0.0,Bachelor's,1,ML Engineer,Reject,50187,1
+RES-00370,Candidate 0370,"JavaScript, React, HTML, CSS",1.6,Bachelor's,5,Cybersecurity Analyst,Hire,64757,2
+RES-00371,Candidate 0371,"Python, SQL, Pandas",1.4,Bachelor's,1,Data Analyst,Hire,51056,5
+RES-00372,Candidate 0372,"Java, HTML, CSS",2.4,Bachelor's,2,Web Developer,Hire,94209,7
+RES-00373,Candidate 0373,"Python, Scikit-learn, SQL",3.1,Bachelor's,0,Data Analyst,Hire,52630,1
+RES-00374,Candidate 0374,"Python, SQL, Pandas",8.1,Bachelor's,1,Cybersecurity Analyst,Hire,63870,9
+RES-00375,Candidate 0375,"Python, Scikit-learn, SQL",5.8,Bachelor's,0,Cybersecurity Analyst,Reject,80463,4
+RES-00376,Candidate 0376,"Python, Networking, Linux",3.6,PhD,3,ML Engineer,Reject,60720,1
+RES-00377,Candidate 0377,"Python, Networking, Linux",2.9,Bachelor's,4,Software Developer,Hire,81531,3
+RES-00378,Candidate 0378,"Python, SQL, Pandas",5.7,Bachelor's,2,Software Developer,Reject,99590,1
+RES-00379,Candidate 0379,"Python, SQL, Pandas",4.6,Master's,1,ML Engineer,Reject,75846,2
+RES-00380,Candidate 0380,"Python, SQL, Pandas",5.7,Bachelor's,3,Data Analyst,Hire,41271,8
+RES-00381,Candidate 0381,"Python, Networking, Linux",7.0,Bachelor's,5,Cybersecurity Analyst,Reject,79170,6
+RES-00382,Candidate 0382,"Python, SQL, Pandas",1.0,Bachelor's,1,Cybersecurity Analyst,Hire,54865,7
+RES-00383,Candidate 0383,"Python, Networking, Linux",0.0,Master's,3,Web Developer,Reject,37251,4
+RES-00384,Candidate 0384,"JavaScript, React, HTML, CSS",3.4,Bachelor's,2,Software Developer,Hire,91614,6
+RES-00385,Candidate 0385,"Python, SQL, Pandas",3.7,Master's,3,Web Developer,Hire,68071,7
+RES-00386,Candidate 0386,"Python, Scikit-learn, SQL",4.2,Bachelor's,3,Software Developer,Hire,45914,4
+RES-00387,Candidate 0387,"Python, Networking, Linux",2.0,Bachelor's,1,Web Developer,Reject,78526,2
+RES-00388,Candidate 0388,"Java, HTML, CSS",2.9,Master's,0,Web Developer,Reject,64964,4
+RES-00389,Candidate 0389,"Python, SQL, Pandas",4.9,Bachelor's,0,Data Analyst,Hire,44834,6
+RES-00390,Candidate 0390,"JavaScript, React, HTML, CSS",5.0,Master's,3,Web Developer,Hire,75708,4
+RES-00391,Candidate 0391,"Python, SQL, Pandas",6.8,Bachelor's,0,Web Developer,Hire,58043,5
+RES-00392,Candidate 0392,"Python, Networking, Linux",0.0,Bachelor's,0,Software Developer,Reject,62072,5
+RES-00393,Candidate 0393,"JavaScript, React, HTML, CSS",0.0,Bachelor's,2,Data Analyst,Reject,107582,7
+RES-00394,Candidate 0394,"Python, Networking, Linux",7.2,Bachelor's,3,ML Engineer,Reject,70111,5
+RES-00395,Candidate 0395,"Python, Networking, Linux",5.0,PhD,1,Web Developer,Reject,66091,2
+RES-00396,Candidate 0396,"Python, SQL, Pandas",5.5,Bachelor's,1,Software Developer,Hire,67839,11
+RES-00397,Candidate 0397,"JavaScript, React, HTML, CSS",2.8,Master's,1,Web Developer,Hire,63492,6
+RES-00398,Candidate 0398,"Python, Networking, Linux",2.3,Bachelor's,1,Web Developer,Reject,71237,5
+RES-00399,Candidate 0399,"Python, SQL, Pandas",4.0,Bachelor's,0,ML Engineer,Reject,61678,4
+RES-00400,Candidate 0400,"Java, HTML, CSS",1.2,Bachelor's,0,Data Analyst,Reject,83073,4
+RES-00401,Candidate 0401,"JavaScript, React, HTML, CSS",0.0,Bachelor's,6,Cybersecurity Analyst,Reject,93642,3
+RES-00402,Candidate 0402,"Python, SQL, Pandas",0.7,PhD,2,ML Engineer,Reject,59657,1
+RES-00403,Candidate 0403,"Python, Scikit-learn, SQL",3.8,Bachelor's,3,ML Engineer,Reject,28081,3
+RES-00404,Candidate 0404,"Python, SQL, Pandas",5.1,Bachelor's,1,Web Developer,Hire,41249,4
+RES-00405,Candidate 0405,"Java, HTML, CSS",7.6,Master's,1,Data Analyst,Hire,65597,6
+RES-00406,Candidate 0406,"Python, Scikit-learn, SQL",4.4,Master's,1,Web Developer,Hire,73890,1
+RES-00407,Candidate 0407,"Python, Scikit-learn, SQL",4.7,Master's,0,ML Engineer,Hire,38660,7
+RES-00408,Candidate 0408,"JavaScript, React, HTML, CSS",7.7,Bachelor's,1,Cybersecurity Analyst,Hire,83591,1
+RES-00409,Candidate 0409,"Java, HTML, CSS",1.6,Bachelor's,3,Cybersecurity Analyst,Reject,44637,4
+RES-00410,Candidate 0410,"Java, HTML, CSS",1.1,Master's,4,ML Engineer,Hire,25000,3
+RES-00411,Candidate 0411,"Python, Scikit-learn, SQL",2.2,Bachelor's,1,ML Engineer,Reject,58702,6
+RES-00412,Candidate 0412,"Python, SQL, Pandas",3.3,Bachelor's,0,Web Developer,Reject,71673,3
+RES-00413,Candidate 0413,"Python, Scikit-learn, SQL",8.6,Bachelor's,6,ML Engineer,Hire,38610,1
+RES-00414,Candidate 0414,"JavaScript, React, HTML, CSS",2.6,PhD,3,Data Analyst,Hire,32207,6
+RES-00415,Candidate 0415,"JavaScript, React, HTML, CSS",6.8,Bachelor's,3,Software Developer,Hire,56007,7
+RES-00416,Candidate 0416,"JavaScript, React, HTML, CSS",2.3,Bachelor's,2,ML Engineer,Reject,45999,6
+RES-00417,Candidate 0417,"Python, Scikit-learn, SQL",4.7,Master's,2,Software Developer,Hire,82642,5
+RES-00418,Candidate 0418,"Python, Networking, Linux",5.2,Bachelor's,4,Cybersecurity Analyst,Hire,76016,3
+RES-00419,Candidate 0419,"Python, Networking, Linux",4.8,Bachelor's,2,Software Developer,Hire,73754,3
+RES-00420,Candidate 0420,"JavaScript, React, HTML, CSS",5.4,PhD,2,Web Developer,Reject,34161,2
+RES-00421,Candidate 0421,"Java, HTML, CSS",1.8,Master's,1,Web Developer,Hire,37048,6
+RES-00422,Candidate 0422,"Python, SQL, Pandas",7.1,Bachelor's,1,ML Engineer,Hire,41240,4
+RES-00423,Candidate 0423,"JavaScript, React, HTML, CSS",6.0,Master's,3,ML Engineer,Reject,101355,2
+RES-00424,Candidate 0424,"Python, Networking, Linux",1.7,Bachelor's,4,Web Developer,Reject,74210,3
+RES-00425,Candidate 0425,"Python, Networking, Linux",4.8,Bachelor's,2,Web Developer,Hire,56812,3
+RES-00426,Candidate 0426,"Python, Networking, Linux",0.8,Master's,0,Software Developer,Hire,62325,4
+RES-00427,Candidate 0427,"JavaScript, React, HTML, CSS",3.7,Bachelor's,0,Software Developer,Hire,40643,3
+RES-00428,Candidate 0428,"Python, Networking, Linux",0.6,PhD,2,Web Developer,Hire,59946,3
+RES-00429,Candidate 0429,"Python, Networking, Linux",5.3,Master's,1,ML Engineer,Hire,80647,3
+RES-00430,Candidate 0430,"Python, SQL, Pandas",10.9,Bachelor's,1,Web Developer,Hire,65145,5
+RES-00431,Candidate 0431,"JavaScript, React, HTML, CSS",7.2,Bachelor's,6,Web Developer,Hire,52152,4
+RES-00432,Candidate 0432,"JavaScript, React, HTML, CSS",5.3,Master's,1,Cybersecurity Analyst,Reject,95430,6
+RES-00433,Candidate 0433,"Python, Networking, Linux",1.2,Bachelor's,0,Data Analyst,Hire,45420,1
+RES-00434,Candidate 0434,"Python, Networking, Linux",4.5,Master's,1,Data Analyst,Hire,47351,5
+RES-00435,Candidate 0435,"Python, Scikit-learn, SQL",6.5,Master's,4,Cybersecurity Analyst,Hire,41117,4
+RES-00436,Candidate 0436,"Python, Scikit-learn, SQL",3.3,Master's,1,Cybersecurity Analyst,Hire,105780,5
+RES-00437,Candidate 0437,"Python, Networking, Linux",3.8,Bachelor's,1,ML Engineer,Reject,64790,2
+RES-00438,Candidate 0438,"Python, SQL, Pandas",0.0,Bachelor's,6,Cybersecurity Analyst,Hire,39185,3
+RES-00439,Candidate 0439,"JavaScript, React, HTML, CSS",1.4,Bachelor's,1,Cybersecurity Analyst,Reject,64265,7
+RES-00440,Candidate 0440,"Java, HTML, CSS",0.0,Master's,3,Web Developer,Reject,64997,4
+RES-00441,Candidate 0441,"JavaScript, React, HTML, CSS",8.3,Bachelor's,2,Cybersecurity Analyst,Reject,73555,2
+RES-00442,Candidate 0442,"JavaScript, React, HTML, CSS",4.7,Bachelor's,2,Data Analyst,Hire,102912,3
+RES-00443,Candidate 0443,"Python, Networking, Linux",5.3,Bachelor's,1,Web Developer,Reject,94084,6
+RES-00444,Candidate 0444,"Java, HTML, CSS",3.0,Master's,3,Data Analyst,Hire,29417,3
+RES-00445,Candidate 0445,"Python, Scikit-learn, SQL",0.0,Bachelor's,5,Data Analyst,Reject,100487,4
+RES-00446,Candidate 0446,"Python, Networking, Linux",3.9,PhD,2,Cybersecurity Analyst,Hire,73189,3
+RES-00447,Candidate 0447,"Python, SQL, Pandas",1.9,Master's,1,Data Analyst,Hire,97833,4
+RES-00448,Candidate 0448,"Java, HTML, CSS",1.1,Bachelor's,3,Data Analyst,Reject,89381,4
+RES-00449,Candidate 0449,"JavaScript, React, HTML, CSS",3.6,Bachelor's,3,Cybersecurity Analyst,Hire,53214,3
+RES-00450,Candidate 0450,"Python, Networking, Linux",3.8,Bachelor's,1,Cybersecurity Analyst,Reject,67855,0
+RES-00451,Candidate 0451,"Java, HTML, CSS",3.0,Master's,4,ML Engineer,Hire,92912,4
+RES-00452,Candidate 0452,"Python, SQL, Pandas",1.6,Bachelor's,6,Web Developer,Hire,59307,3
+RES-00453,Candidate 0453,"Python, Scikit-learn, SQL",1.0,Bachelor's,3,Data Analyst,Reject,49459,6
+RES-00454,Candidate 0454,"Python, Networking, Linux",3.5,Bachelor's,3,Web Developer,Hire,89390,1
+RES-00455,Candidate 0455,"Python, Scikit-learn, SQL",6.6,Master's,2,Data Analyst,Hire,53996,2
+RES-00456,Candidate 0456,"JavaScript, React, HTML, CSS",0.0,Master's,0,Web Developer,Reject,66706,3
+RES-00457,Candidate 0457,"JavaScript, React, HTML, CSS",1.9,Master's,2,ML Engineer,Reject,82461,4
+RES-00458,Candidate 0458,"Python, SQL, Pandas",3.1,Bachelor's,3,ML Engineer,Hire,83650,1
+RES-00459,Candidate 0459,"JavaScript, React, HTML, CSS",3.1,Bachelor's,2,Software Developer,Reject,57490,4
+RES-00460,Candidate 0460,"Java, HTML, CSS",2.0,Bachelor's,0,ML Engineer,Reject,56601,6
+RES-00461,Candidate 0461,"Python, Networking, Linux",8.3,Master's,4,Data Analyst,Hire,64647,4
+RES-00462,Candidate 0462,"Python, Scikit-learn, SQL",4.5,Bachelor's,0,ML Engineer,Reject,68337,6
+RES-00463,Candidate 0463,"Java, HTML, CSS",1.0,Master's,1,Web Developer,Reject,50623,3
+RES-00464,Candidate 0464,"Java, HTML, CSS",0.0,Bachelor's,3,Data Analyst,Reject,43169,7
+RES-00465,Candidate 0465,"JavaScript, React, HTML, CSS",3.1,Bachelor's,2,Cybersecurity Analyst,Reject,60713,2
+RES-00466,Candidate 0466,"Python, SQL, Pandas",7.2,Master's,1,Data Analyst,Hire,35445,3
+RES-00467,Candidate 0467,"JavaScript, React, HTML, CSS",4.0,Bachelor's,3,Software Developer,Hire,61418,3
+RES-00468,Candidate 0468,"Python, SQL, Pandas",0.0,Bachelor's,2,Software Developer,Reject,33183,2
+RES-00469,Candidate 0469,"Python, Scikit-learn, SQL",0.1,Bachelor's,1,Cybersecurity Analyst,Hire,74436,8
+RES-00470,Candidate 0470,"JavaScript, React, HTML, CSS",3.8,Bachelor's,1,Cybersecurity Analyst,Reject,36704,2
+RES-00471,Candidate 0471,"JavaScript, React, HTML, CSS",6.2,Bachelor's,0,ML Engineer,Hire,94669,5
+RES-00472,Candidate 0472,"JavaScript, React, HTML, CSS",3.9,Bachelor's,2,ML Engineer,Reject,68349,3
+RES-00473,Candidate 0473,"Python, Scikit-learn, SQL",3.9,Bachelor's,1,Data Analyst,Reject,90142,4
+RES-00474,Candidate 0474,"Java, HTML, CSS",6.2,Master's,1,ML Engineer,Hire,67270,4
+RES-00475,Candidate 0475,"Java, HTML, CSS",6.6,Bachelor's,2,Cybersecurity Analyst,Hire,53368,5
+RES-00476,Candidate 0476,"JavaScript, React, HTML, CSS",1.8,Bachelor's,4,Web Developer,Hire,81598,4
+RES-00477,Candidate 0477,"Python, Scikit-learn, SQL",4.6,Master's,3,Cybersecurity Analyst,Hire,64630,7
+RES-00478,Candidate 0478,"Python, Scikit-learn, SQL",1.1,Master's,0,Cybersecurity Analyst,Reject,98884,5
+RES-00479,Candidate 0479,"Python, Networking, Linux",0.8,Bachelor's,2,Cybersecurity Analyst,Reject,29091,2
+RES-00480,Candidate 0480,"Java, HTML, CSS",5.0,PhD,1,Software Developer,Hire,72856,5
+RES-00481,Candidate 0481,"Python, Scikit-learn, SQL",0.0,Bachelor's,0,Cybersecurity Analyst,Reject,69838,4
+RES-00482,Candidate 0482,"Python, SQL, Pandas",3.9,Bachelor's,0,Web Developer,Hire,108488,4
+RES-00483,Candidate 0483,"Python, Scikit-learn, SQL",4.3,Master's,0,Data Analyst,Reject,52980,1
+RES-00484,Candidate 0484,"Python, Scikit-learn, SQL",5.7,Bachelor's,2,Cybersecurity Analyst,Reject,53364,2
+RES-00485,Candidate 0485,"Python, SQL, Pandas",0.6,Master's,3,Software Developer,Hire,72322,3
+RES-00486,Candidate 0486,"Python, Scikit-learn, SQL",4.5,Bachelor's,3,ML Engineer,Hire,94026,4
+RES-00487,Candidate 0487,"Python, SQL, Pandas",3.2,Master's,1,Cybersecurity Analyst,Hire,82364,6
+RES-00488,Candidate 0488,"Python, Scikit-learn, SQL",7.2,Bachelor's,1,Data Analyst,Reject,81483,2
+RES-00489,Candidate 0489,"Java, HTML, CSS",1.6,Master's,3,Cybersecurity Analyst,Hire,31831,3
+RES-00490,Candidate 0490,"Python, Networking, Linux",0.7,Bachelor's,1,Data Analyst,Reject,64756,2
+RES-00491,Candidate 0491,"Python, Scikit-learn, SQL",4.8,Bachelor's,3,Software Developer,Hire,46948,10
+RES-00492,Candidate 0492,"Java, HTML, CSS",1.4,Bachelor's,1,ML Engineer,Hire,34320,2
+RES-00493,Candidate 0493,"JavaScript, React, HTML, CSS",0.3,Bachelor's,3,Web Developer,Reject,84409,2
+RES-00494,Candidate 0494,"JavaScript, React, HTML, CSS",5.8,Master's,1,Web Developer,Hire,50472,3
+RES-00495,Candidate 0495,"Python, Scikit-learn, SQL",4.6,Bachelor's,4,ML Engineer,Reject,56745,4
+RES-00496,Candidate 0496,"Python, Scikit-learn, SQL",0.0,Bachelor's,1,Cybersecurity Analyst,Reject,51259,3
+RES-00497,Candidate 0497,"JavaScript, React, HTML, CSS",1.2,PhD,1,Software Developer,Hire,94747,2
+RES-00498,Candidate 0498,"JavaScript, React, HTML, CSS",0.7,Bachelor's,3,Data Analyst,Reject,92470,3
+RES-00499,Candidate 0499,"Python, SQL, Pandas",5.1,Bachelor's,3,Web Developer,Reject,84346,6
+RES-00500,Candidate 0500,"JavaScript, React, HTML, CSS",7.2,Bachelor's,5,Data Analyst,Hire,111140,5
+RES-00501,Candidate 0501,"Java, HTML, CSS",8.6,Bachelor's,0,ML Engineer,Reject,98080,2
+RES-00502,Candidate 0502,"JavaScript, React, HTML, CSS",5.3,Bachelor's,2,Cybersecurity Analyst,Hire,104831,2
+RES-00503,Candidate 0503,"Python, Scikit-learn, SQL",0.8,Bachelor's,2,Software Developer,Reject,25000,2
+RES-00504,Candidate 0504,"Python, Networking, Linux",0.7,Bachelor's,2,Software Developer,Reject,73997,1
+RES-00505,Candidate 0505,"Python, Scikit-learn, SQL",1.1,Bachelor's,0,Cybersecurity Analyst,Reject,25000,6
+RES-00506,Candidate 0506,"Python, Scikit-learn, SQL",4.7,Bachelor's,4,Data Analyst,Hire,72864,6
+RES-00507,Candidate 0507,"Python, SQL, Pandas",6.7,Master's,2,Data Analyst,Reject,48374,6
+RES-00508,Candidate 0508,"Java, HTML, CSS",0.0,Bachelor's,2,Software Developer,Reject,60105,4
+RES-00509,Candidate 0509,"JavaScript, React, HTML, CSS",5.0,Bachelor's,4,Web Developer,Reject,75964,1
+RES-00510,Candidate 0510,"Java, HTML, CSS",5.8,Bachelor's,0,Cybersecurity Analyst,Reject,25000,3
+RES-00511,Candidate 0511,"Java, HTML, CSS",4.3,Master's,1,ML Engineer,Reject,67113,7
+RES-00512,Candidate 0512,"JavaScript, React, HTML, CSS",11.6,Bachelor's,2,Data Analyst,Hire,72929,7
+RES-00513,Candidate 0513,"JavaScript, React, HTML, CSS",4.8,Master's,2,Software Developer,Reject,79049,3
+RES-00514,Candidate 0514,"Java, HTML, CSS",3.6,Bachelor's,3,Web Developer,Reject,66923,5
+RES-00515,Candidate 0515,"JavaScript, React, HTML, CSS",5.0,Bachelor's,2,Web Developer,Reject,41272,8
+RES-00516,Candidate 0516,"JavaScript, React, HTML, CSS",2.1,Master's,1,Data Analyst,Reject,102347,3
+RES-00517,Candidate 0517,"Python, Networking, Linux",0.8,Bachelor's,2,ML Engineer,Reject,64042,1
+RES-00518,Candidate 0518,"Java, HTML, CSS",4.6,PhD,3,Data Analyst,Hire,72269,5
+RES-00519,Candidate 0519,"Python, Networking, Linux",6.4,Master's,1,Data Analyst,Hire,111555,9
+RES-00520,Candidate 0520,"Python, Scikit-learn, SQL",2.9,Bachelor's,2,Web Developer,Hire,30238,6
+RES-00521,Candidate 0521,"Python, SQL, Pandas",5.8,Bachelor's,4,Software Developer,Hire,51224,5
+RES-00522,Candidate 0522,"Python, Scikit-learn, SQL",2.6,Bachelor's,2,Software Developer,Hire,83889,4
+RES-00523,Candidate 0523,"Python, SQL, Pandas",7.6,Bachelor's,2,ML Engineer,Hire,68002,1
+RES-00524,Candidate 0524,"Python, SQL, Pandas",4.0,Master's,0,Web Developer,Reject,60297,3
+RES-00525,Candidate 0525,"Java, HTML, CSS",4.8,Master's,0,Cybersecurity Analyst,Reject,84195,6
+RES-00526,Candidate 0526,"Python, Scikit-learn, SQL",5.4,Bachelor's,2,Software Developer,Hire,41625,8
+RES-00527,Candidate 0527,"Python, SQL, Pandas",0.1,Bachelor's,2,Software Developer,Reject,58921,5
+RES-00528,Candidate 0528,"Python, Networking, Linux",3.0,Bachelor's,2,Data Analyst,Reject,63869,5
+RES-00529,Candidate 0529,"Python, Networking, Linux",8.1,Bachelor's,1,Web Developer,Hire,39550,4
+RES-00530,Candidate 0530,"Python, Networking, Linux",3.6,Master's,1,Cybersecurity Analyst,Reject,70495,3
+RES-00531,Candidate 0531,"Python, SQL, Pandas",7.0,Master's,3,Cybersecurity Analyst,Hire,65861,4
+RES-00532,Candidate 0532,"Java, HTML, CSS",5.7,Bachelor's,2,Cybersecurity Analyst,Reject,25000,2
+RES-00533,Candidate 0533,"Java, HTML, CSS",0.0,Bachelor's,2,ML Engineer,Reject,78311,4
+RES-00534,Candidate 0534,"Python, SQL, Pandas",5.3,Bachelor's,4,ML Engineer,Hire,36869,3
+RES-00535,Candidate 0535,"JavaScript, React, HTML, CSS",0.8,Bachelor's,2,Cybersecurity Analyst,Reject,70469,3
+RES-00536,Candidate 0536,"Python, Scikit-learn, SQL",4.2,Bachelor's,3,Data Analyst,Reject,63698,5
+RES-00537,Candidate 0537,"Python, Scikit-learn, SQL",2.5,Bachelor's,2,Cybersecurity Analyst,Reject,42237,3
+RES-00538,Candidate 0538,"JavaScript, React, HTML, CSS",3.6,Bachelor's,2,Web Developer,Hire,51262,6
+RES-00539,Candidate 0539,"Python, Scikit-learn, SQL",3.3,Master's,4,Cybersecurity Analyst,Hire,33432,8
+RES-00540,Candidate 0540,"Java, HTML, CSS",4.1,Bachelor's,1,Data Analyst,Hire,75030,4
+RES-00541,Candidate 0541,"Python, Networking, Linux",2.4,Bachelor's,2,ML Engineer,Reject,83100,4
+RES-00542,Candidate 0542,"Python, Networking, Linux",0.1,Master's,2,ML Engineer,Hire,80572,3
+RES-00543,Candidate 0543,"Python, Scikit-learn, SQL",1.0,Master's,2,Software Developer,Hire,54342,2
+RES-00544,Candidate 0544,"Python, Networking, Linux",5.8,PhD,3,Web Developer,Hire,28943,4
+RES-00545,Candidate 0545,"Java, HTML, CSS",7.8,Bachelor's,0,Software Developer,Hire,53746,1
+RES-00546,Candidate 0546,"JavaScript, React, HTML, CSS",4.1,Bachelor's,2,Software Developer,Reject,42427,2
+RES-00547,Candidate 0547,"Python, Networking, Linux",5.6,Bachelor's,1,Data Analyst,Hire,86034,8
+RES-00548,Candidate 0548,"Python, Networking, Linux",5.9,Master's,6,Software Developer,Hire,55615,1
+RES-00549,Candidate 0549,"Python, Networking, Linux",0.1,Bachelor's,0,Cybersecurity Analyst,Reject,29890,9
+RES-00550,Candidate 0550,"Python, Networking, Linux",0.0,PhD,1,ML Engineer,Reject,72566,4
+RES-00551,Candidate 0551,"Java, HTML, CSS",3.4,Bachelor's,5,Cybersecurity Analyst,Reject,36897,4
+RES-00552,Candidate 0552,"Java, HTML, CSS",0.0,Bachelor's,0,Software Developer,Reject,57395,3
+RES-00553,Candidate 0553,"JavaScript, React, HTML, CSS",2.8,Master's,2,Web Developer,Reject,93435,4
+RES-00554,Candidate 0554,"Python, Networking, Linux",0.0,Bachelor's,1,Web Developer,Reject,95909,3
+RES-00555,Candidate 0555,"Python, SQL, Pandas",1.9,Bachelor's,2,Cybersecurity Analyst,Reject,61196,5
+RES-00556,Candidate 0556,"Python, SQL, Pandas",1.6,Master's,1,Cybersecurity Analyst,Hire,37851,4
+RES-00557,Candidate 0557,"Python, SQL, Pandas",4.8,Bachelor's,1,ML Engineer,Reject,55931,2
+RES-00558,Candidate 0558,"JavaScript, React, HTML, CSS",1.9,Bachelor's,5,ML Engineer,Hire,67487,2
+RES-00559,Candidate 0559,"Python, Scikit-learn, SQL",0.6,Bachelor's,0,Software Developer,Reject,80895,8
+RES-00560,Candidate 0560,"Python, Scikit-learn, SQL",3.6,Master's,1,Web Developer,Hire,45055,3
+RES-00561,Candidate 0561,"Python, Scikit-learn, SQL",10.9,Bachelor's,2,ML Engineer,Hire,90729,1
+RES-00562,Candidate 0562,"Java, HTML, CSS",4.7,Bachelor's,3,Software Developer,Reject,51183,4
+RES-00563,Candidate 0563,"Java, HTML, CSS",0.0,Master's,1,Data Analyst,Reject,55242,2
+RES-00564,Candidate 0564,"Python, Networking, Linux",3.7,Bachelor's,1,Cybersecurity Analyst,Hire,49605,2
+RES-00565,Candidate 0565,"Python, Scikit-learn, SQL",9.9,Bachelor's,1,Web Developer,Reject,52127,1
+RES-00566,Candidate 0566,"Python, Networking, Linux",3.9,Bachelor's,1,Software Developer,Reject,106849,3
+RES-00567,Candidate 0567,"Java, HTML, CSS",6.7,Bachelor's,1,ML Engineer,Reject,88172,3
+RES-00568,Candidate 0568,"Python, Networking, Linux",6.3,Master's,2,Data Analyst,Reject,56067,1
+RES-00569,Candidate 0569,"Python, Scikit-learn, SQL",6.5,Bachelor's,3,Cybersecurity Analyst,Hire,80878,4
+RES-00570,Candidate 0570,"Python, Networking, Linux",6.1,Bachelor's,2,Web Developer,Hire,46589,7
+RES-00571,Candidate 0571,"Python, SQL, Pandas",4.2,PhD,1,Data Analyst,Hire,25285,5
+RES-00572,Candidate 0572,"Python, SQL, Pandas",3.0,Master's,3,ML Engineer,Hire,73580,4
+RES-00573,Candidate 0573,"Python, Networking, Linux",2.8,Bachelor's,1,Cybersecurity Analyst,Hire,124183,4
+RES-00574,Candidate 0574,"JavaScript, React, HTML, CSS",3.8,Bachelor's,1,Software Developer,Reject,59895,3
+RES-00575,Candidate 0575,"Python, Networking, Linux",4.6,Bachelor's,1,Data Analyst,Hire,59319,5
+RES-00576,Candidate 0576,"JavaScript, React, HTML, CSS",0.3,PhD,3,Software Developer,Reject,31822,3
+RES-00577,Candidate 0577,"Python, Scikit-learn, SQL",2.8,Bachelor's,2,Cybersecurity Analyst,Reject,35050,3
+RES-00578,Candidate 0578,"Java, HTML, CSS",3.4,Bachelor's,0,Cybersecurity Analyst,Hire,64066,4
+RES-00579,Candidate 0579,"JavaScript, React, HTML, CSS",3.8,Bachelor's,4,ML Engineer,Reject,61378,3
+RES-00580,Candidate 0580,"Python, Scikit-learn, SQL",2.7,Master's,4,Web Developer,Hire,55848,4
+RES-00581,Candidate 0581,"JavaScript, React, HTML, CSS",5.5,Bachelor's,1,Cybersecurity Analyst,Hire,56862,4
+RES-00582,Candidate 0582,"Java, HTML, CSS",3.2,Master's,5,ML Engineer,Hire,61624,2
+RES-00583,Candidate 0583,"Python, SQL, Pandas",2.6,Master's,3,Cybersecurity Analyst,Reject,68676,5
+RES-00584,Candidate 0584,"Python, SQL, Pandas",0.4,Master's,1,Web Developer,Hire,82106,1
+RES-00585,Candidate 0585,"Python, Scikit-learn, SQL",1.6,Master's,2,Cybersecurity Analyst,Hire,84588,4
+RES-00586,Candidate 0586,"JavaScript, React, HTML, CSS",4.1,Master's,3,Data Analyst,Reject,75092,3
+RES-00587,Candidate 0587,"JavaScript, React, HTML, CSS",3.8,Master's,3,Data Analyst,Hire,40246,3
+RES-00588,Candidate 0588,"Java, HTML, CSS",0.0,Master's,1,Software Developer,Reject,25000,4
+RES-00589,Candidate 0589,"Java, HTML, CSS",5.8,Bachelor's,1,Cybersecurity Analyst,Reject,92090,4
+RES-00590,Candidate 0590,"Python, Scikit-learn, SQL",1.7,PhD,3,Software Developer,Reject,77444,8
+RES-00591,Candidate 0591,"Python, Scikit-learn, SQL",1.2,Bachelor's,1,Data Analyst,Reject,74026,3
+RES-00592,Candidate 0592,"JavaScript, React, HTML, CSS",6.3,Bachelor's,0,Data Analyst,Reject,40922,3
+RES-00593,Candidate 0593,"Python, SQL, Pandas",6.4,Bachelor's,1,Web Developer,Reject,83111,4
+RES-00594,Candidate 0594,"JavaScript, React, HTML, CSS",1.7,Bachelor's,2,Web Developer,Reject,67659,2
+RES-00595,Candidate 0595,"Python, Scikit-learn, SQL",2.6,Bachelor's,3,Software Developer,Hire,73826,4
+RES-00596,Candidate 0596,"Python, Scikit-learn, SQL",0.4,Master's,3,Web Developer,Reject,47478,3
+RES-00597,Candidate 0597,"Python, Scikit-learn, SQL",5.5,Bachelor's,2,Cybersecurity Analyst,Hire,51062,4
+RES-00598,Candidate 0598,"JavaScript, React, HTML, CSS",5.8,Bachelor's,1,Data Analyst,Hire,59851,1
+RES-00599,Candidate 0599,"Java, HTML, CSS",2.4,Bachelor's,3,ML Engineer,Reject,81661,6
+RES-00600,Candidate 0600,"Python, Scikit-learn, SQL",7.0,Bachelor's,2,Cybersecurity Analyst,Reject,98436,2
+RES-00601,Candidate 0601,"Python, SQL, Pandas",5.8,Bachelor's,4,Web Developer,Hire,52769,5
+RES-00602,Candidate 0602,"Python, Scikit-learn, SQL",3.2,Master's,4,ML Engineer,Hire,77159,5
+RES-00603,Candidate 0603,"Java, HTML, CSS",5.3,PhD,1,Web Developer,Hire,74375,2
+RES-00604,Candidate 0604,"Python, SQL, Pandas",0.0,Bachelor's,1,ML Engineer,Hire,102619,5
+RES-00605,Candidate 0605,"Python, Networking, Linux",2.8,Master's,1,Cybersecurity Analyst,Hire,54255,1
+RES-00606,Candidate 0606,"Java, HTML, CSS",4.1,Bachelor's,1,Software Developer,Hire,92192,6
+RES-00607,Candidate 0607,"JavaScript, React, HTML, CSS",3.5,Bachelor's,1,Software Developer,Reject,63148,4
+RES-00608,Candidate 0608,"JavaScript, React, HTML, CSS",8.6,Bachelor's,1,Cybersecurity Analyst,Hire,85912,3
+RES-00609,Candidate 0609,"Python, SQL, Pandas",4.3,Master's,4,Software Developer,Reject,66067,5
+RES-00610,Candidate 0610,"Python, Networking, Linux",4.4,Master's,1,ML Engineer,Reject,92770,7
+RES-00611,Candidate 0611,"Python, Scikit-learn, SQL",0.2,Bachelor's,0,Cybersecurity Analyst,Hire,54869,5
+RES-00612,Candidate 0612,"Python, Networking, Linux",3.0,Bachelor's,1,Web Developer,Reject,96137,2
+RES-00613,Candidate 0613,"Python, SQL, Pandas",1.5,Master's,2,Cybersecurity Analyst,Reject,47766,3
+RES-00614,Candidate 0614,"Python, Networking, Linux",9.4,Bachelor's,1,Cybersecurity Analyst,Hire,90371,5
+RES-00615,Candidate 0615,"Java, HTML, CSS",2.5,Bachelor's,2,ML Engineer,Reject,38593,8
+RES-00616,Candidate 0616,"Python, Networking, Linux",3.8,Bachelor's,0,ML Engineer,Reject,85489,7
+RES-00617,Candidate 0617,"JavaScript, React, HTML, CSS",6.5,Bachelor's,2,Web Developer,Hire,35153,3
+RES-00618,Candidate 0618,"Java, HTML, CSS",5.1,Bachelor's,2,Software Developer,Hire,58230,9
+RES-00619,Candidate 0619,"JavaScript, React, HTML, CSS",0.0,Bachelor's,3,Web Developer,Hire,90494,4
+RES-00620,Candidate 0620,"Java, HTML, CSS",5.1,Master's,4,ML Engineer,Hire,70529,4
+RES-00621,Candidate 0621,"Java, HTML, CSS",5.3,Bachelor's,1,Cybersecurity Analyst,Hire,26229,4
+RES-00622,Candidate 0622,"JavaScript, React, HTML, CSS",3.0,Bachelor's,1,Web Developer,Hire,74609,8
+RES-00623,Candidate 0623,"JavaScript, React, HTML, CSS",4.7,Bachelor's,2,ML Engineer,Hire,98652,3
+RES-00624,Candidate 0624,"Python, Scikit-learn, SQL",3.8,Bachelor's,1,Data Analyst,Reject,85042,6
+RES-00625,Candidate 0625,"Java, HTML, CSS",0.0,Bachelor's,1,Data Analyst,Reject,51060,5
+RES-00626,Candidate 0626,"Java, HTML, CSS",2.1,Bachelor's,0,ML Engineer,Reject,67936,6
+RES-00627,Candidate 0627,"JavaScript, React, HTML, CSS",3.6,Bachelor's,0,ML Engineer,Reject,98664,2
+RES-00628,Candidate 0628,"Python, Scikit-learn, SQL",2.0,Bachelor's,2,ML Engineer,Reject,94722,4
+RES-00629,Candidate 0629,"Python, Scikit-learn, SQL",4.8,Master's,2,Web Developer,Hire,25973,4
+RES-00630,Candidate 0630,"Python, SQL, Pandas",6.0,Bachelor's,4,Cybersecurity Analyst,Reject,88753,2
+RES-00631,Candidate 0631,"Python, Networking, Linux",4.2,Bachelor's,2,Software Developer,Reject,25000,2
+RES-00632,Candidate 0632,"Java, HTML, CSS",2.6,Master's,2,Software Developer,Reject,28591,2
+RES-00633,Candidate 0633,"Python, SQL, Pandas",6.9,Master's,3,Data Analyst,Hire,64496,6
+RES-00634,Candidate 0634,"Python, Networking, Linux",3.8,Master's,2,Data Analyst,Hire,42616,7
+RES-00635,Candidate 0635,"Java, HTML, CSS",4.4,PhD,2,Cybersecurity Analyst,Hire,90182,3
+RES-00636,Candidate 0636,"Python, Scikit-learn, SQL",1.6,Master's,3,Software Developer,Reject,65973,1
+RES-00637,Candidate 0637,"Python, Networking, Linux",3.0,Bachelor's,4,ML Engineer,Reject,35888,1
+RES-00638,Candidate 0638,"Python, Networking, Linux",6.0,Master's,1,Data Analyst,Hire,82977,6
+RES-00639,Candidate 0639,"Python, Scikit-learn, SQL",5.4,Master's,1,ML Engineer,Hire,25000,7
+RES-00640,Candidate 0640,"Java, HTML, CSS",3.0,Bachelor's,3,ML Engineer,Hire,77496,5
+RES-00641,Candidate 0641,"Java, HTML, CSS",3.5,Bachelor's,1,Data Analyst,Reject,78242,4
+RES-00642,Candidate 0642,"JavaScript, React, HTML, CSS",4.0,Master's,2,Software Developer,Hire,72820,3
+RES-00643,Candidate 0643,"JavaScript, React, HTML, CSS",1.1,Bachelor's,1,Cybersecurity Analyst,Reject,133336,5
+RES-00644,Candidate 0644,"Python, Networking, Linux",3.0,Bachelor's,3,Web Developer,Reject,53064,1
+RES-00645,Candidate 0645,"JavaScript, React, HTML, CSS",2.2,Master's,6,ML Engineer,Reject,34479,2
+RES-00646,Candidate 0646,"Python, SQL, Pandas",0.0,Bachelor's,2,Cybersecurity Analyst,Reject,80221,6
+RES-00647,Candidate 0647,"Java, HTML, CSS",3.9,Bachelor's,4,Software Developer,Hire,51574,3
+RES-00648,Candidate 0648,"Python, Networking, Linux",3.1,Bachelor's,2,ML Engineer,Hire,56232,4
+RES-00649,Candidate 0649,"Python, Scikit-learn, SQL",0.0,Master's,2,Software Developer,Reject,29194,6
+RES-00650,Candidate 0650,"Python, Scikit-learn, SQL",1.5,Bachelor's,1,Data Analyst,Hire,52639,3
+RES-00651,Candidate 0651,"Python, Scikit-learn, SQL",3.3,PhD,1,Software Developer,Hire,59815,4
+RES-00652,Candidate 0652,"Python, Scikit-learn, SQL",0.0,Bachelor's,1,Cybersecurity Analyst,Reject,25000,1
+RES-00653,Candidate 0653,"Java, HTML, CSS",4.0,Bachelor's,1,Web Developer,Reject,86429,7
+RES-00654,Candidate 0654,"Python, Scikit-learn, SQL",4.2,PhD,6,Data Analyst,Hire,38272,6
+RES-00655,Candidate 0655,"JavaScript, React, HTML, CSS",5.1,Master's,1,Web Developer,Hire,59305,4
+RES-00656,Candidate 0656,"Python, Networking, Linux",2.0,Master's,2,Software Developer,Reject,70280,1
+RES-00657,Candidate 0657,"Python, SQL, Pandas",0.0,Master's,1,Software Developer,Hire,74750,0
+RES-00658,Candidate 0658,"JavaScript, React, HTML, CSS",5.1,Bachelor's,2,Data Analyst,Reject,111560,3
+RES-00659,Candidate 0659,"Java, HTML, CSS",0.1,Bachelor's,1,Cybersecurity Analyst,Hire,53812,7
+RES-00660,Candidate 0660,"Java, HTML, CSS",4.9,Bachelor's,1,Data Analyst,Reject,72549,5
+RES-00661,Candidate 0661,"Java, HTML, CSS",1.8,PhD,1,Cybersecurity Analyst,Hire,74673,2
+RES-00662,Candidate 0662,"Python, Scikit-learn, SQL",1.0,Master's,1,Data Analyst,Reject,74407,1
+RES-00663,Candidate 0663,"Python, SQL, Pandas",4.2,Bachelor's,3,Cybersecurity Analyst,Hire,25000,4
+RES-00664,Candidate 0664,"JavaScript, React, HTML, CSS",6.3,Bachelor's,1,Web Developer,Reject,64390,1
+RES-00665,Candidate 0665,"Python, Scikit-learn, SQL",3.1,Bachelor's,1,ML Engineer,Hire,60589,1
+RES-00666,Candidate 0666,"Python, Scikit-learn, SQL",2.9,Bachelor's,4,ML Engineer,Reject,46199,3
+RES-00667,Candidate 0667,"Python, SQL, Pandas",0.0,Bachelor's,3,ML Engineer,Reject,69965,4
+RES-00668,Candidate 0668,"Python, Networking, Linux",5.6,Bachelor's,3,Web Developer,Hire,78457,6
+RES-00669,Candidate 0669,"Java, HTML, CSS",3.7,Bachelor's,6,Cybersecurity Analyst,Hire,68703,5
+RES-00670,Candidate 0670,"Python, Scikit-learn, SQL",2.8,Bachelor's,1,Software Developer,Reject,75552,4
+RES-00671,Candidate 0671,"JavaScript, React, HTML, CSS",6.8,Master's,0,Software Developer,Hire,59808,4
+RES-00672,Candidate 0672,"JavaScript, React, HTML, CSS",0.0,Bachelor's,2,Web Developer,Reject,37792,6
+RES-00673,Candidate 0673,"Java, HTML, CSS",2.2,Bachelor's,4,Data Analyst,Reject,108707,1
+RES-00674,Candidate 0674,"Java, HTML, CSS",3.5,Bachelor's,2,Web Developer,Hire,45031,4
+RES-00675,Candidate 0675,"Java, HTML, CSS",2.8,Master's,4,ML Engineer,Reject,65836,5
+RES-00676,Candidate 0676,"Python, Networking, Linux",0.0,Bachelor's,2,Data Analyst,Reject,71081,4
+RES-00677,Candidate 0677,"Python, SQL, Pandas",4.4,Master's,3,Web Developer,Hire,38259,5
+RES-00678,Candidate 0678,"JavaScript, React, HTML, CSS",3.4,Master's,1,Web Developer,Hire,64107,4
+RES-00679,Candidate 0679,"Java, HTML, CSS",6.0,Master's,0,Software Developer,Hire,73347,1
+RES-00680,Candidate 0680,"Python, Scikit-learn, SQL",8.6,Master's,3,Software Developer,Hire,70048,7
+RES-00681,Candidate 0681,"JavaScript, React, HTML, CSS",3.0,Bachelor's,1,Web Developer,Reject,62933,2
+RES-00682,Candidate 0682,"Java, HTML, CSS",4.5,PhD,0,ML Engineer,Reject,77658,3
+RES-00683,Candidate 0683,"Java, HTML, CSS",4.1,Bachelor's,2,ML Engineer,Hire,31680,7
+RES-00684,Candidate 0684,"Python, Scikit-learn, SQL",3.9,Master's,3,Data Analyst,Hire,78731,5
+RES-00685,Candidate 0685,"Python, Scikit-learn, SQL",3.2,Master's,1,Web Developer,Hire,85292,4
+RES-00686,Candidate 0686,"JavaScript, React, HTML, CSS",4.5,Bachelor's,3,Data Analyst,Reject,60115,2
+RES-00687,Candidate 0687,"JavaScript, React, HTML, CSS",6.3,Bachelor's,2,Cybersecurity Analyst,Hire,39737,5
+RES-00688,Candidate 0688,"Python, Scikit-learn, SQL",1.4,Master's,1,Software Developer,Reject,38470,2
+RES-00689,Candidate 0689,"Python, Scikit-learn, SQL",8.3,Bachelor's,4,ML Engineer,Hire,62509,7
+RES-00690,Candidate 0690,"Python, SQL, Pandas",4.8,Master's,2,Cybersecurity Analyst,Reject,47166,7
+RES-00691,Candidate 0691,"Python, Scikit-learn, SQL",4.3,Bachelor's,2,ML Engineer,Reject,90494,12
+RES-00692,Candidate 0692,"Java, HTML, CSS",0.0,Bachelor's,6,Software Developer,Reject,33048,3
+RES-00693,Candidate 0693,"Python, Scikit-learn, SQL",3.5,Bachelor's,3,Data Analyst,Reject,57748,2
+RES-00694,Candidate 0694,"Python, Scikit-learn, SQL",1.1,Master's,2,Cybersecurity Analyst,Reject,34174,2
+RES-00695,Candidate 0695,"Python, Scikit-learn, SQL",4.9,Bachelor's,2,Cybersecurity Analyst,Hire,79750,2
+RES-00696,Candidate 0696,"Python, Networking, Linux",5.9,PhD,4,Data Analyst,Hire,87530,3
+RES-00697,Candidate 0697,"Python, Networking, Linux",6.4,Bachelor's,2,Data Analyst,Hire,76508,6
+RES-00698,Candidate 0698,"Python, SQL, Pandas",3.1,Master's,0,Data Analyst,Reject,80273,3
+RES-00699,Candidate 0699,"Python, Networking, Linux",3.3,Bachelor's,1,Data Analyst,Reject,76971,5
+RES-00700,Candidate 0700,"Python, Networking, Linux",4.6,Bachelor's,3,Cybersecurity Analyst,Reject,63799,6
+RES-00701,Candidate 0701,"Python, Networking, Linux",0.0,Bachelor's,3,ML Engineer,Hire,73245,1
+RES-00702,Candidate 0702,"Java, HTML, CSS",2.4,Bachelor's,2,ML Engineer,Reject,69018,4
+RES-00703,Candidate 0703,"JavaScript, React, HTML, CSS",2.1,Master's,3,Web Developer,Hire,66801,5
+RES-00704,Candidate 0704,"Python, Scikit-learn, SQL",4.8,PhD,0,Software Developer,Hire,58382,6
+RES-00705,Candidate 0705,"Java, HTML, CSS",2.4,Master's,4,Web Developer,Hire,91151,2
+RES-00706,Candidate 0706,"Python, Networking, Linux",5.4,Master's,3,Software Developer,Hire,48038,6
+RES-00707,Candidate 0707,"Python, SQL, Pandas",3.0,Bachelor's,1,Software Developer,Reject,75156,4
+RES-00708,Candidate 0708,"Python, Scikit-learn, SQL",5.6,Master's,2,Software Developer,Hire,117274,6
+RES-00709,Candidate 0709,"JavaScript, React, HTML, CSS",9.0,Master's,2,ML Engineer,Hire,25000,4
+RES-00710,Candidate 0710,"Python, Networking, Linux",7.4,Bachelor's,2,ML Engineer,Hire,88476,6
+RES-00711,Candidate 0711,"JavaScript, React, HTML, CSS",5.9,Bachelor's,3,Software Developer,Reject,42563,1
+RES-00712,Candidate 0712,"JavaScript, React, HTML, CSS",6.4,Bachelor's,1,Data Analyst,Reject,88695,0
+RES-00713,Candidate 0713,"Python, Networking, Linux",2.6,Bachelor's,1,Data Analyst,Reject,25000,3
+RES-00714,Candidate 0714,"Python, Networking, Linux",1.6,Bachelor's,0,ML Engineer,Reject,77798,7
+RES-00715,Candidate 0715,"JavaScript, React, HTML, CSS",1.4,Bachelor's,4,ML Engineer,Reject,38611,2
+RES-00716,Candidate 0716,"Python, Scikit-learn, SQL",4.0,Bachelor's,4,ML Engineer,Reject,56758,5
+RES-00717,Candidate 0717,"Python, SQL, Pandas",7.2,PhD,4,Data Analyst,Hire,83384,2
+RES-00718,Candidate 0718,"Python, Scikit-learn, SQL",1.7,Master's,1,Data Analyst,Hire,80895,4
+RES-00719,Candidate 0719,"JavaScript, React, HTML, CSS",4.7,Master's,0,Data Analyst,Reject,85426,3
+RES-00720,Candidate 0720,"JavaScript, React, HTML, CSS",0.4,Master's,4,Web Developer,Reject,70449,2
+RES-00721,Candidate 0721,"Python, SQL, Pandas",0.5,Bachelor's,1,Software Developer,Reject,47582,2
+RES-00722,Candidate 0722,"Python, Networking, Linux",5.6,Bachelor's,1,Cybersecurity Analyst,Reject,68790,2
+RES-00723,Candidate 0723,"Python, Scikit-learn, SQL",1.8,Master's,3,Web Developer,Reject,59189,3
+RES-00724,Candidate 0724,"Java, HTML, CSS",1.7,Bachelor's,0,Data Analyst,Reject,90436,4
+RES-00725,Candidate 0725,"JavaScript, React, HTML, CSS",8.4,Bachelor's,2,Web Developer,Reject,96217,7
+RES-00726,Candidate 0726,"Python, SQL, Pandas",3.7,Master's,2,Web Developer,Hire,47901,5
+RES-00727,Candidate 0727,"Python, Scikit-learn, SQL",3.4,Master's,1,ML Engineer,Reject,83488,1
+RES-00728,Candidate 0728,"Java, HTML, CSS",2.9,Bachelor's,2,Data Analyst,Hire,64716,6
+RES-00729,Candidate 0729,"Python, Networking, Linux",4.5,Bachelor's,2,Data Analyst,Reject,74587,8
+RES-00730,Candidate 0730,"Python, Scikit-learn, SQL",1.7,Bachelor's,4,Cybersecurity Analyst,Reject,92734,4
+RES-00731,Candidate 0731,"Java, HTML, CSS",3.6,Bachelor's,3,Web Developer,Hire,92386,4
+RES-00732,Candidate 0732,"Python, Networking, Linux",6.2,Master's,3,Software Developer,Reject,47051,4
+RES-00733,Candidate 0733,"Java, HTML, CSS",2.7,Bachelor's,1,Cybersecurity Analyst,Reject,82560,2
+RES-00734,Candidate 0734,"Python, Scikit-learn, SQL",0.0,Master's,1,Software Developer,Reject,84989,1
+RES-00735,Candidate 0735,"Python, Scikit-learn, SQL",1.9,Bachelor's,2,Web Developer,Hire,72438,3
+RES-00736,Candidate 0736,"Java, HTML, CSS",5.4,Bachelor's,1,Data Analyst,Reject,74291,5
+RES-00737,Candidate 0737,"JavaScript, React, HTML, CSS",6.3,Master's,0,ML Engineer,Hire,87832,4
+RES-00738,Candidate 0738,"Python, Networking, Linux",4.4,Bachelor's,1,Web Developer,Reject,48989,6
+RES-00739,Candidate 0739,"Java, HTML, CSS",7.1,Bachelor's,2,Web Developer,Hire,96137,2
+RES-00740,Candidate 0740,"JavaScript, React, HTML, CSS",0.9,Bachelor's,3,ML Engineer,Reject,63056,4
+RES-00741,Candidate 0741,"Python, SQL, Pandas",6.7,Master's,1,Software Developer,Hire,71468,7
+RES-00742,Candidate 0742,"JavaScript, React, HTML, CSS",4.0,Bachelor's,2,Software Developer,Reject,47612,3
+RES-00743,Candidate 0743,"JavaScript, React, HTML, CSS",5.2,Bachelor's,4,ML Engineer,Hire,70244,5
+RES-00744,Candidate 0744,"Python, Scikit-learn, SQL",0.0,Bachelor's,1,Software Developer,Reject,67110,5
+RES-00745,Candidate 0745,"Java, HTML, CSS",5.7,Bachelor's,0,Data Analyst,Reject,62540,4
+RES-00746,Candidate 0746,"Python, Scikit-learn, SQL",4.1,Bachelor's,1,Web Developer,Reject,27176,3
+RES-00747,Candidate 0747,"Java, HTML, CSS",8.3,PhD,1,Data Analyst,Hire,82055,2
+RES-00748,Candidate 0748,"JavaScript, React, HTML, CSS",4.0,Bachelor's,0,Software Developer,Reject,42171,1
+RES-00749,Candidate 0749,"Java, HTML, CSS",1.1,Bachelor's,2,ML Engineer,Reject,59281,1
+RES-00750,Candidate 0750,"Java, HTML, CSS",1.5,Bachelor's,4,ML Engineer,Hire,73351,8
+RES-00751,Candidate 0751,"Python, Networking, Linux",4.5,Bachelor's,2,Data Analyst,Reject,54868,4
+RES-00752,Candidate 0752,"Python, Networking, Linux",4.3,Bachelor's,0,Data Analyst,Hire,47586,6
+RES-00753,Candidate 0753,"Python, Networking, Linux",1.9,Bachelor's,4,Data Analyst,Reject,80800,3
+RES-00754,Candidate 0754,"Java, HTML, CSS",0.8,Bachelor's,4,Cybersecurity Analyst,Hire,33907,8
+RES-00755,Candidate 0755,"JavaScript, React, HTML, CSS",7.3,Bachelor's,1,Web Developer,Reject,66148,3
+RES-00756,Candidate 0756,"JavaScript, React, HTML, CSS",2.9,Bachelor's,1,Data Analyst,Reject,60406,5
+RES-00757,Candidate 0757,"Python, Networking, Linux",3.3,Bachelor's,1,ML Engineer,Reject,69721,2
+RES-00758,Candidate 0758,"Python, SQL, Pandas",2.2,Master's,3,Web Developer,Hire,51158,6
+RES-00759,Candidate 0759,"Python, Networking, Linux",7.0,Master's,2,Cybersecurity Analyst,Hire,51914,7
+RES-00760,Candidate 0760,"JavaScript, React, HTML, CSS",6.3,Bachelor's,3,Web Developer,Hire,84079,3
+RES-00761,Candidate 0761,"Java, HTML, CSS",0.9,Bachelor's,4,ML Engineer,Reject,94648,1
+RES-00762,Candidate 0762,"Java, HTML, CSS",3.3,Bachelor's,2,Cybersecurity Analyst,Hire,48483,6
+RES-00763,Candidate 0763,"Python, SQL, Pandas",1.2,Bachelor's,1,ML Engineer,Reject,78462,4
+RES-00764,Candidate 0764,"Python, Scikit-learn, SQL",8.1,Bachelor's,0,Web Developer,Hire,76955,3
+RES-00765,Candidate 0765,"JavaScript, React, HTML, CSS",4.6,Bachelor's,0,Web Developer,Reject,92338,3
+RES-00766,Candidate 0766,"Python, Scikit-learn, SQL",2.8,Bachelor's,2,ML Engineer,Reject,104847,4
+RES-00767,Candidate 0767,"Python, Scikit-learn, SQL",2.7,Master's,0,Web Developer,Hire,68486,1
+RES-00768,Candidate 0768,"Java, HTML, CSS",4.9,Bachelor's,2,Cybersecurity Analyst,Hire,68281,2
+RES-00769,Candidate 0769,"Java, HTML, CSS",2.9,Bachelor's,3,Software Developer,Hire,54942,4
+RES-00770,Candidate 0770,"Java, HTML, CSS",7.4,Bachelor's,2,Software Developer,Hire,83174,3
+RES-00771,Candidate 0771,"Python, Scikit-learn, SQL",1.2,Bachelor's,3,Data Analyst,Hire,76155,2
+RES-00772,Candidate 0772,"Java, HTML, CSS",0.4,Bachelor's,3,Web Developer,Hire,62795,5
+RES-00773,Candidate 0773,"JavaScript, React, HTML, CSS",7.0,Bachelor's,3,Data Analyst,Reject,50622,3
+RES-00774,Candidate 0774,"Python, Scikit-learn, SQL",2.4,Master's,2,ML Engineer,Reject,55677,3
+RES-00775,Candidate 0775,"JavaScript, React, HTML, CSS",7.0,PhD,2,ML Engineer,Hire,25000,4
+RES-00776,Candidate 0776,"Python, Networking, Linux",5.7,Bachelor's,3,Cybersecurity Analyst,Hire,25000,1
+RES-00777,Candidate 0777,"Python, Scikit-learn, SQL",0.1,Bachelor's,0,Cybersecurity Analyst,Reject,56411,3
+RES-00778,Candidate 0778,"Python, Scikit-learn, SQL",2.0,Bachelor's,4,ML Engineer,Reject,50055,4
+RES-00779,Candidate 0779,"Java, HTML, CSS",3.6,Bachelor's,1,Cybersecurity Analyst,Hire,74807,7
+RES-00780,Candidate 0780,"Python, Networking, Linux",2.9,PhD,1,ML Engineer,Hire,70223,6
+RES-00781,Candidate 0781,"Python, Scikit-learn, SQL",4.3,Bachelor's,0,Data Analyst,Hire,51572,5
+RES-00782,Candidate 0782,"Python, Scikit-learn, SQL",2.0,Bachelor's,0,ML Engineer,Reject,60705,4
+RES-00783,Candidate 0783,"Java, HTML, CSS",3.3,Bachelor's,2,ML Engineer,Reject,53461,6
+RES-00784,Candidate 0784,"Python, SQL, Pandas",6.0,Master's,1,Software Developer,Hire,90012,4
+RES-00785,Candidate 0785,"Java, HTML, CSS",6.8,Bachelor's,1,Data Analyst,Hire,74602,5
+RES-00786,Candidate 0786,"JavaScript, React, HTML, CSS",1.5,Bachelor's,4,Software Developer,Reject,66404,4
+RES-00787,Candidate 0787,"JavaScript, React, HTML, CSS",2.9,Bachelor's,1,Software Developer,Reject,88032,7
+RES-00788,Candidate 0788,"Python, Networking, Linux",3.2,Bachelor's,1,ML Engineer,Reject,97387,4
+RES-00789,Candidate 0789,"Python, Scikit-learn, SQL",0.1,Bachelor's,6,ML Engineer,Hire,86585,8
+RES-00790,Candidate 0790,"Python, Networking, Linux",5.8,Master's,1,Web Developer,Hire,71400,4
+RES-00791,Candidate 0791,"Python, Networking, Linux",4.9,Bachelor's,1,Data Analyst,Hire,71086,1
+RES-00792,Candidate 0792,"Python, Scikit-learn, SQL",4.8,Bachelor's,3,Cybersecurity Analyst,Reject,56616,2
+RES-00793,Candidate 0793,"Python, SQL, Pandas",3.2,Bachelor's,1,ML Engineer,Hire,66487,5
+RES-00794,Candidate 0794,"Python, Scikit-learn, SQL",5.7,Bachelor's,1,Web Developer,Hire,66285,4
+RES-00795,Candidate 0795,"Java, HTML, CSS",5.9,Bachelor's,3,Software Developer,Hire,56651,9
+RES-00796,Candidate 0796,"Python, Scikit-learn, SQL",6.4,Bachelor's,0,Software Developer,Hire,67644,3
+RES-00797,Candidate 0797,"Python, Networking, Linux",3.1,Bachelor's,2,Web Developer,Reject,69524,5
+RES-00798,Candidate 0798,"Java, HTML, CSS",4.4,Bachelor's,5,Software Developer,Reject,85635,4
+RES-00799,Candidate 0799,"Java, HTML, CSS",2.5,Master's,2,Data Analyst,Hire,65131,2
+RES-00800,Candidate 0800,"Java, HTML, CSS",2.7,Bachelor's,1,ML Engineer,Hire,86282,3
+RES-00801,Candidate 0801,"Python, Networking, Linux",6.0,Master's,1,Web Developer,Hire,88924,7
+RES-00802,Candidate 0802,"Python, SQL, Pandas",3.6,Bachelor's,2,Cybersecurity Analyst,Reject,31964,1
+RES-00803,Candidate 0803,"Python, Networking, Linux",3.1,Bachelor's,3,ML Engineer,Reject,71718,2
+RES-00804,Candidate 0804,"Java, HTML, CSS",5.0,Master's,1,Cybersecurity Analyst,Reject,53907,2
+RES-00805,Candidate 0805,"Python, Scikit-learn, SQL",5.2,Master's,1,Cybersecurity Analyst,Reject,55327,3
+RES-00806,Candidate 0806,"Python, Scikit-learn, SQL",1.6,Master's,0,Software Developer,Reject,25000,4
+RES-00807,Candidate 0807,"Python, Scikit-learn, SQL",1.9,Bachelor's,0,Data Analyst,Reject,95444,10
+RES-00808,Candidate 0808,"JavaScript, React, HTML, CSS",5.3,Master's,3,Cybersecurity Analyst,Hire,71226,8
+RES-00809,Candidate 0809,"Python, Scikit-learn, SQL",4.8,Bachelor's,1,Data Analyst,Hire,67495,2
+RES-00810,Candidate 0810,"Python, Scikit-learn, SQL",3.0,Bachelor's,3,Data Analyst,Hire,75990,8
+RES-00811,Candidate 0811,"Python, Scikit-learn, SQL",6.5,Master's,0,Cybersecurity Analyst,Reject,79776,1
+RES-00812,Candidate 0812,"JavaScript, React, HTML, CSS",3.3,Master's,1,ML Engineer,Reject,64947,5
+RES-00813,Candidate 0813,"Python, Scikit-learn, SQL",0.0,Master's,0,Data Analyst,Reject,40379,6
+RES-00814,Candidate 0814,"JavaScript, React, HTML, CSS",1.5,Bachelor's,1,Cybersecurity Analyst,Reject,57360,2
+RES-00815,Candidate 0815,"JavaScript, React, HTML, CSS",0.0,Master's,1,ML Engineer,Hire,25000,7
+RES-00816,Candidate 0816,"JavaScript, React, HTML, CSS",6.4,Bachelor's,1,Cybersecurity Analyst,Hire,25000,6
+RES-00817,Candidate 0817,"Python, Scikit-learn, SQL",4.8,Master's,2,Software Developer,Hire,55679,4
+RES-00818,Candidate 0818,"Python, Networking, Linux",3.8,Bachelor's,2,ML Engineer,Reject,82363,7
+RES-00819,Candidate 0819,"JavaScript, React, HTML, CSS",0.0,Master's,2,ML Engineer,Hire,40305,3
+RES-00820,Candidate 0820,"JavaScript, React, HTML, CSS",0.0,Master's,3,Cybersecurity Analyst,Reject,51408,4
+RES-00821,Candidate 0821,"Python, Networking, Linux",3.1,Bachelor's,1,ML Engineer,Reject,68420,2
+RES-00822,Candidate 0822,"JavaScript, React, HTML, CSS",0.0,Master's,3,ML Engineer,Reject,87696,5
+RES-00823,Candidate 0823,"JavaScript, React, HTML, CSS",5.9,Master's,3,ML Engineer,Reject,81923,5
+RES-00824,Candidate 0824,"Java, HTML, CSS",3.2,Bachelor's,3,Cybersecurity Analyst,Hire,77330,7
+RES-00825,Candidate 0825,"Python, Networking, Linux",3.1,Bachelor's,4,Cybersecurity Analyst,Reject,64400,3
+RES-00826,Candidate 0826,"Python, Scikit-learn, SQL",3.3,Bachelor's,1,Software Developer,Reject,52987,5
+RES-00827,Candidate 0827,"Python, Networking, Linux",1.1,Bachelor's,4,ML Engineer,Reject,79565,1
+RES-00828,Candidate 0828,"JavaScript, React, HTML, CSS",0.9,Bachelor's,2,Cybersecurity Analyst,Reject,122546,4
+RES-00829,Candidate 0829,"JavaScript, React, HTML, CSS",0.0,Bachelor's,2,ML Engineer,Reject,50743,2
+RES-00830,Candidate 0830,"Java, HTML, CSS",3.6,Bachelor's,3,Web Developer,Reject,81391,1
+RES-00831,Candidate 0831,"JavaScript, React, HTML, CSS",4.5,Master's,3,Software Developer,Hire,72936,5
+RES-00832,Candidate 0832,"Python, Networking, Linux",2.9,Master's,3,Data Analyst,Reject,25000,2
+RES-00833,Candidate 0833,"Java, HTML, CSS",2.8,Bachelor's,2,Web Developer,Reject,54808,4
+RES-00834,Candidate 0834,"Python, SQL, Pandas",1.1,Master's,4,Cybersecurity Analyst,Hire,40094,5
+RES-00835,Candidate 0835,"Python, Scikit-learn, SQL",4.1,Bachelor's,3,ML Engineer,Reject,77435,2
+RES-00836,Candidate 0836,"Python, Scikit-learn, SQL",0.0,Master's,2,Web Developer,Reject,36502,9
+RES-00837,Candidate 0837,"Python, Networking, Linux",0.7,Bachelor's,6,Data Analyst,Reject,78495,6
+RES-00838,Candidate 0838,"JavaScript, React, HTML, CSS",1.9,Bachelor's,3,Software Developer,Hire,55985,7
+RES-00839,Candidate 0839,"Java, HTML, CSS",2.2,Master's,1,Data Analyst,Reject,61254,2
+RES-00840,Candidate 0840,"Python, Networking, Linux",4.0,Bachelor's,1,ML Engineer,Hire,99914,2
+RES-00841,Candidate 0841,"Python, Networking, Linux",3.0,Bachelor's,3,Data Analyst,Reject,113000,4
+RES-00842,Candidate 0842,"Python, Networking, Linux",3.9,Bachelor's,1,Software Developer,Hire,45530,8
+RES-00843,Candidate 0843,"Python, Scikit-learn, SQL",6.6,Bachelor's,1,Cybersecurity Analyst,Hire,35727,2
+RES-00844,Candidate 0844,"Python, Networking, Linux",6.9,Bachelor's,2,Cybersecurity Analyst,Hire,65572,2
+RES-00845,Candidate 0845,"Python, Networking, Linux",5.1,Master's,2,Software Developer,Hire,95324,1
+RES-00846,Candidate 0846,"Java, HTML, CSS",6.6,Master's,4,Cybersecurity Analyst,Hire,49189,4
+RES-00847,Candidate 0847,"Python, SQL, Pandas",7.8,Bachelor's,2,Data Analyst,Reject,78513,9
+RES-00848,Candidate 0848,"Python, Scikit-learn, SQL",4.4,Bachelor's,2,ML Engineer,Hire,56904,3
+RES-00849,Candidate 0849,"JavaScript, React, HTML, CSS",0.0,Bachelor's,4,ML Engineer,Hire,33823,0
+RES-00850,Candidate 0850,"Python, Networking, Linux",6.0,PhD,0,Cybersecurity Analyst,Hire,73269,8
+RES-00851,Candidate 0851,"Java, HTML, CSS",1.0,Bachelor's,3,Cybersecurity Analyst,Hire,30244,6
+RES-00852,Candidate 0852,"Python, Networking, Linux",8.2,Bachelor's,1,Cybersecurity Analyst,Reject,42626,2
+RES-00853,Candidate 0853,"Java, HTML, CSS",7.8,Bachelor's,2,Data Analyst,Hire,70861,9
+RES-00854,Candidate 0854,"Python, Scikit-learn, SQL",2.2,Master's,1,Web Developer,Hire,46684,6
+RES-00855,Candidate 0855,"Python, Scikit-learn, SQL",0.8,Master's,3,Software Developer,Hire,70719,5
+RES-00856,Candidate 0856,"Java, HTML, CSS",1.8,Bachelor's,2,Software Developer,Reject,64478,2
+RES-00857,Candidate 0857,"JavaScript, React, HTML, CSS",3.3,Bachelor's,2,Data Analyst,Reject,72918,9
+RES-00858,Candidate 0858,"JavaScript, React, HTML, CSS",6.7,Master's,1,Cybersecurity Analyst,Hire,67381,5
+RES-00859,Candidate 0859,"JavaScript, React, HTML, CSS",0.4,Bachelor's,2,Cybersecurity Analyst,Hire,114748,2
+RES-00860,Candidate 0860,"Java, HTML, CSS",5.7,Master's,1,Software Developer,Hire,92372,5
+RES-00861,Candidate 0861,"Python, Networking, Linux",0.0,Bachelor's,1,Software Developer,Reject,71782,3
+RES-00862,Candidate 0862,"JavaScript, React, HTML, CSS",6.5,PhD,3,Cybersecurity Analyst,Hire,78753,3
+RES-00863,Candidate 0863,"Python, Networking, Linux",3.3,Bachelor's,0,Software Developer,Hire,69450,3
+RES-00864,Candidate 0864,"Java, HTML, CSS",4.0,Bachelor's,6,Web Developer,Hire,59251,4
+RES-00865,Candidate 0865,"Python, SQL, Pandas",3.2,Bachelor's,1,Software Developer,Hire,70906,3
+RES-00866,Candidate 0866,"JavaScript, React, HTML, CSS",5.8,Master's,3,Web Developer,Hire,74361,2
+RES-00867,Candidate 0867,"Python, SQL, Pandas",4.4,Bachelor's,2,Data Analyst,Hire,53889,4
+RES-00868,Candidate 0868,"Python, Scikit-learn, SQL",7.7,PhD,1,Web Developer,Reject,51144,7
+RES-00869,Candidate 0869,"Python, Scikit-learn, SQL",0.0,Bachelor's,2,Data Analyst,Reject,76758,0
+RES-00870,Candidate 0870,"Python, Scikit-learn, SQL",1.2,Bachelor's,0,ML Engineer,Hire,52885,5
+RES-00871,Candidate 0871,"Python, Scikit-learn, SQL",0.1,Bachelor's,1,Software Developer,Reject,47819,4
+RES-00872,Candidate 0872,"Java, HTML, CSS",5.3,Bachelor's,3,Software Developer,Hire,44493,1
+RES-00873,Candidate 0873,"Python, Scikit-learn, SQL",0.0,Bachelor's,4,Cybersecurity Analyst,Reject,72188,5
+RES-00874,Candidate 0874,"Java, HTML, CSS",9.6,Bachelor's,1,Software Developer,Hire,56162,3
+RES-00875,Candidate 0875,"JavaScript, React, HTML, CSS",3.7,Master's,2,Software Developer,Hire,52922,3
+RES-00876,Candidate 0876,"Java, HTML, CSS",6.6,Bachelor's,3,Data Analyst,Hire,88296,7
+RES-00877,Candidate 0877,"Java, HTML, CSS",1.1,Bachelor's,1,Data Analyst,Hire,25000,4
+RES-00878,Candidate 0878,"Java, HTML, CSS",4.0,Bachelor's,2,ML Engineer,Reject,26208,1
+RES-00879,Candidate 0879,"Python, Networking, Linux",5.1,Bachelor's,1,Cybersecurity Analyst,Hire,75364,3
+RES-00880,Candidate 0880,"Java, HTML, CSS",1.7,Bachelor's,1,ML Engineer,Reject,60638,5
+RES-00881,Candidate 0881,"Python, SQL, Pandas",2.9,Master's,0,Software Developer,Hire,68317,6
+RES-00882,Candidate 0882,"JavaScript, React, HTML, CSS",7.4,Bachelor's,3,Cybersecurity Analyst,Reject,82214,3
+RES-00883,Candidate 0883,"Python, SQL, Pandas",6.7,Bachelor's,1,Cybersecurity Analyst,Reject,43609,0
+RES-00884,Candidate 0884,"Python, SQL, Pandas",4.9,Bachelor's,3,Cybersecurity Analyst,Hire,67138,4
+RES-00885,Candidate 0885,"Java, HTML, CSS",8.4,Bachelor's,5,ML Engineer,Hire,68820,3
+RES-00886,Candidate 0886,"Java, HTML, CSS",0.0,Master's,1,Web Developer,Reject,42960,8
+RES-00887,Candidate 0887,"Java, HTML, CSS",4.2,Bachelor's,1,ML Engineer,Hire,44291,4
+RES-00888,Candidate 0888,"Python, Scikit-learn, SQL",2.5,Master's,0,Data Analyst,Hire,64860,5
+RES-00889,Candidate 0889,"Python, SQL, Pandas",7.1,Bachelor's,3,Software Developer,Hire,82694,6
+RES-00890,Candidate 0890,"Python, Scikit-learn, SQL",6.3,Bachelor's,4,Cybersecurity Analyst,Reject,86019,5
+RES-00891,Candidate 0891,"Java, HTML, CSS",6.4,Master's,3,ML Engineer,Hire,70610,1
+RES-00892,Candidate 0892,"JavaScript, React, HTML, CSS",2.0,Bachelor's,3,Software Developer,Reject,71143,2
+RES-00893,Candidate 0893,"Python, Scikit-learn, SQL",4.9,Bachelor's,1,Web Developer,Reject,60836,2
+RES-00894,Candidate 0894,"Java, HTML, CSS",6.2,Bachelor's,4,Data Analyst,Hire,38841,4
+RES-00895,Candidate 0895,"JavaScript, React, HTML, CSS",6.7,Bachelor's,4,ML Engineer,Reject,47829,5
+RES-00896,Candidate 0896,"Python, Networking, Linux",1.2,Bachelor's,1,Cybersecurity Analyst,Reject,32513,5
+RES-00897,Candidate 0897,"Python, Scikit-learn, SQL",1.8,Bachelor's,4,Web Developer,Reject,87868,1
+RES-00898,Candidate 0898,"Python, SQL, Pandas",4.1,Master's,1,Web Developer,Hire,67195,3
+RES-00899,Candidate 0899,"JavaScript, React, HTML, CSS",7.0,PhD,4,Software Developer,Hire,37172,5
+RES-00900,Candidate 0900,"JavaScript, React, HTML, CSS",5.1,Bachelor's,2,Data Analyst,Hire,81861,3
+RES-00901,Candidate 0901,"Python, Networking, Linux",6.9,Master's,4,Software Developer,Hire,64985,4
+RES-00902,Candidate 0902,"Python, Scikit-learn, SQL",0.0,Bachelor's,1,Web Developer,Reject,70360,4
+RES-00903,Candidate 0903,"Python, Networking, Linux",2.8,Master's,3,ML Engineer,Reject,94085,1
+RES-00904,Candidate 0904,"Python, SQL, Pandas",4.7,Bachelor's,5,Software Developer,Hire,88817,2
+RES-00905,Candidate 0905,"JavaScript, React, HTML, CSS",4.2,Bachelor's,1,Software Developer,Reject,46252,2
+RES-00906,Candidate 0906,"JavaScript, React, HTML, CSS",0.0,Bachelor's,0,Data Analyst,Hire,78345,1
+RES-00907,Candidate 0907,"Python, Networking, Linux",6.3,Bachelor's,0,Web Developer,Hire,89440,5
+RES-00908,Candidate 0908,"JavaScript, React, HTML, CSS",4.4,Master's,3,Software Developer,Hire,98615,5
+RES-00909,Candidate 0909,"Python, Networking, Linux",2.3,Bachelor's,1,Data Analyst,Reject,50847,2
+RES-00910,Candidate 0910,"Java, HTML, CSS",6.5,Master's,3,Data Analyst,Reject,73314,1
+RES-00911,Candidate 0911,"JavaScript, React, HTML, CSS",0.0,Master's,5,Data Analyst,Reject,33527,2
+RES-00912,Candidate 0912,"JavaScript, React, HTML, CSS",2.2,Master's,2,Web Developer,Reject,78547,2
+RES-00913,Candidate 0913,"Python, Scikit-learn, SQL",5.7,Master's,0,Data Analyst,Hire,48796,6
+RES-00914,Candidate 0914,"Python, SQL, Pandas",4.4,Master's,3,Web Developer,Hire,42924,2
+RES-00915,Candidate 0915,"Java, HTML, CSS",2.9,Bachelor's,2,Data Analyst,Reject,79125,1
+RES-00916,Candidate 0916,"Python, SQL, Pandas",3.1,Bachelor's,2,Web Developer,Reject,38507,3
+RES-00917,Candidate 0917,"JavaScript, React, HTML, CSS",2.9,Bachelor's,2,Cybersecurity Analyst,Reject,109482,5
+RES-00918,Candidate 0918,"Java, HTML, CSS",5.7,Bachelor's,1,Web Developer,Reject,75857,6
+RES-00919,Candidate 0919,"Python, Scikit-learn, SQL",2.7,Master's,1,Data Analyst,Hire,86111,1
+RES-00920,Candidate 0920,"Python, SQL, Pandas",5.2,Master's,2,Web Developer,Hire,43416,1
+RES-00921,Candidate 0921,"Java, HTML, CSS",0.0,Bachelor's,2,Web Developer,Reject,63294,6
+RES-00922,Candidate 0922,"JavaScript, React, HTML, CSS",6.6,Bachelor's,2,Web Developer,Hire,135282,5
+RES-00923,Candidate 0923,"Python, Scikit-learn, SQL",9.6,Master's,2,Software Developer,Hire,49100,9
+RES-00924,Candidate 0924,"JavaScript, React, HTML, CSS",4.7,Master's,3,ML Engineer,Reject,79232,8
+RES-00925,Candidate 0925,"Java, HTML, CSS",3.3,Bachelor's,3,Cybersecurity Analyst,Hire,94693,0
+RES-00926,Candidate 0926,"Python, SQL, Pandas",2.2,Bachelor's,2,Web Developer,Hire,92886,3
+RES-00927,Candidate 0927,"Python, SQL, Pandas",5.2,Bachelor's,0,Web Developer,Hire,92431,3
+RES-00928,Candidate 0928,"Java, HTML, CSS",1.9,Bachelor's,2,Cybersecurity Analyst,Reject,69278,3
+RES-00929,Candidate 0929,"Python, SQL, Pandas",1.5,Master's,1,Cybersecurity Analyst,Reject,59901,4
+RES-00930,Candidate 0930,"Python, Scikit-learn, SQL",0.0,Master's,2,Web Developer,Reject,42071,3
+RES-00931,Candidate 0931,"Python, Scikit-learn, SQL",4.1,Master's,4,Web Developer,Reject,97355,4
+RES-00932,Candidate 0932,"Java, HTML, CSS",2.8,Bachelor's,1,Web Developer,Reject,94699,8
+RES-00933,Candidate 0933,"JavaScript, React, HTML, CSS",2.9,Bachelor's,2,Data Analyst,Hire,54538,4
+RES-00934,Candidate 0934,"Python, Scikit-learn, SQL",3.5,Bachelor's,1,Web Developer,Reject,48615,4
+RES-00935,Candidate 0935,"JavaScript, React, HTML, CSS",1.7,Master's,2,Data Analyst,Reject,65039,5
+RES-00936,Candidate 0936,"JavaScript, React, HTML, CSS",4.0,Bachelor's,2,ML Engineer,Reject,71365,5
+RES-00937,Candidate 0937,"Python, Networking, Linux",0.8,Master's,2,ML Engineer,Hire,56314,3
+RES-00938,Candidate 0938,"Python, SQL, Pandas",3.2,Master's,1,Web Developer,Reject,86890,3
+RES-00939,Candidate 0939,"Python, Networking, Linux",2.8,Bachelor's,4,Web Developer,Hire,51978,3
+RES-00940,Candidate 0940,"Python, Networking, Linux",0.0,Bachelor's,5,Web Developer,Reject,73566,3
+RES-00941,Candidate 0941,"Python, Networking, Linux",0.5,Master's,2,Software Developer,Hire,49943,5
+RES-00942,Candidate 0942,"Python, Networking, Linux",2.0,Bachelor's,3,ML Engineer,Hire,57083,5
+RES-00943,Candidate 0943,"JavaScript, React, HTML, CSS",2.1,Bachelor's,2,Cybersecurity Analyst,Hire,53061,2
+RES-00944,Candidate 0944,"Java, HTML, CSS",4.1,Bachelor's,3,Web Developer,Hire,91642,6
+RES-00945,Candidate 0945,"Python, Networking, Linux",2.5,Master's,1,Data Analyst,Hire,31912,6
+RES-00946,Candidate 0946,"Python, Networking, Linux",3.4,Bachelor's,2,ML Engineer,Reject,82202,6
+RES-00947,Candidate 0947,"Java, HTML, CSS",2.5,Bachelor's,7,Cybersecurity Analyst,Hire,78757,6
+RES-00948,Candidate 0948,"JavaScript, React, HTML, CSS",0.0,Master's,1,Web Developer,Reject,69784,2
+RES-00949,Candidate 0949,"JavaScript, React, HTML, CSS",3.2,PhD,5,Data Analyst,Hire,69301,3
+RES-00950,Candidate 0950,"Python, Networking, Linux",1.4,Bachelor's,2,Software Developer,Reject,78757,3
+RES-00951,Candidate 0951,"JavaScript, React, HTML, CSS",3.1,Bachelor's,3,Software Developer,Hire,93796,4
+RES-00952,Candidate 0952,"Python, Scikit-learn, SQL",1.6,Master's,2,Data Analyst,Hire,103151,4
+RES-00953,Candidate 0953,"Python, SQL, Pandas",5.1,Bachelor's,0,ML Engineer,Hire,25000,5
+RES-00954,Candidate 0954,"JavaScript, React, HTML, CSS",3.4,Bachelor's,1,Web Developer,Hire,43430,4
+RES-00955,Candidate 0955,"Python, Networking, Linux",5.3,Bachelor's,1,Data Analyst,Reject,83290,8
+RES-00956,Candidate 0956,"JavaScript, React, HTML, CSS",5.5,Bachelor's,3,Data Analyst,Hire,77523,6
+RES-00957,Candidate 0957,"Python, SQL, Pandas",2.1,Master's,1,ML Engineer,Reject,72098,3
+RES-00958,Candidate 0958,"Python, Scikit-learn, SQL",5.5,Bachelor's,3,Cybersecurity Analyst,Hire,69738,5
+RES-00959,Candidate 0959,"Python, SQL, Pandas",4.1,Master's,1,ML Engineer,Hire,76122,2
+RES-00960,Candidate 0960,"Java, HTML, CSS",0.9,Bachelor's,1,Software Developer,Reject,48209,1
+RES-00961,Candidate 0961,"Java, HTML, CSS",3.2,Master's,0,Cybersecurity Analyst,Reject,82130,6
+RES-00962,Candidate 0962,"Java, HTML, CSS",3.7,Master's,2,Cybersecurity Analyst,Reject,72812,6
+RES-00963,Candidate 0963,"Python, Networking, Linux",6.7,Bachelor's,3,Cybersecurity Analyst,Hire,78513,2
+RES-00964,Candidate 0964,"Python, Networking, Linux",2.6,Bachelor's,2,Cybersecurity Analyst,Reject,50106,2
+RES-00965,Candidate 0965,"Python, Networking, Linux",7.4,Bachelor's,1,Software Developer,Hire,90642,3
+RES-00966,Candidate 0966,"Python, Scikit-learn, SQL",5.4,Bachelor's,0,ML Engineer,Hire,94945,4
+RES-00967,Candidate 0967,"JavaScript, React, HTML, CSS",0.0,Bachelor's,3,ML Engineer,Hire,51579,8
+RES-00968,Candidate 0968,"Python, Scikit-learn, SQL",0.9,Bachelor's,3,Web Developer,Hire,94647,7
+RES-00969,Candidate 0969,"Python, SQL, Pandas",5.0,Master's,2,Cybersecurity Analyst,Reject,67799,6
+RES-00970,Candidate 0970,"Python, Scikit-learn, SQL",0.0,Bachelor's,6,Data Analyst,Reject,80255,6
+RES-00971,Candidate 0971,"Python, SQL, Pandas",4.7,Master's,1,Software Developer,Hire,69665,5
+RES-00972,Candidate 0972,"Python, Networking, Linux",7.0,Bachelor's,1,Data Analyst,Reject,74632,1
+RES-00973,Candidate 0973,"JavaScript, React, HTML, CSS",2.8,Master's,2,Cybersecurity Analyst,Hire,54536,3
+RES-00974,Candidate 0974,"Python, Networking, Linux",7.0,Master's,1,Web Developer,Hire,62850,7
+RES-00975,Candidate 0975,"JavaScript, React, HTML, CSS",6.8,PhD,3,Cybersecurity Analyst,Hire,59003,5
+RES-00976,Candidate 0976,"Python, SQL, Pandas",3.4,Bachelor's,3,Web Developer,Hire,82903,8
+RES-00977,Candidate 0977,"Python, Scikit-learn, SQL",3.4,Master's,1,Software Developer,Hire,58466,3
+RES-00978,Candidate 0978,"JavaScript, React, HTML, CSS",4.0,Master's,3,Cybersecurity Analyst,Hire,39342,4
+RES-00979,Candidate 0979,"JavaScript, React, HTML, CSS",4.6,Bachelor's,2,ML Engineer,Reject,47277,2
+RES-00980,Candidate 0980,"Python, Networking, Linux",0.0,Bachelor's,1,Web Developer,Hire,77689,3
+RES-00981,Candidate 0981,"Python, SQL, Pandas",3.1,Master's,3,ML Engineer,Reject,75144,6
+RES-00982,Candidate 0982,"JavaScript, React, HTML, CSS",0.0,Master's,0,Web Developer,Reject,36537,6
+RES-00983,Candidate 0983,"JavaScript, React, HTML, CSS",2.6,Bachelor's,2,Software Developer,Hire,63884,4
+RES-00984,Candidate 0984,"Python, Networking, Linux",3.0,Master's,1,Cybersecurity Analyst,Hire,25000,2
+RES-00985,Candidate 0985,"Python, Scikit-learn, SQL",0.0,Bachelor's,2,Software Developer,Hire,80426,4
+RES-00986,Candidate 0986,"JavaScript, React, HTML, CSS",0.3,Bachelor's,3,Software Developer,Reject,108915,5
+RES-00987,Candidate 0987,"JavaScript, React, HTML, CSS",2.5,PhD,4,Software Developer,Reject,90448,1
+RES-00988,Candidate 0988,"Java, HTML, CSS",8.9,Bachelor's,2,Cybersecurity Analyst,Hire,84346,6
+RES-00989,Candidate 0989,"Python, SQL, Pandas",0.0,Bachelor's,2,Software Developer,Reject,65147,5
+RES-00990,Candidate 0990,"Python, Scikit-learn, SQL",3.8,Bachelor's,0,Web Developer,Hire,30030,5
+RES-00991,Candidate 0991,"Python, SQL, Pandas",1.3,Bachelor's,2,Cybersecurity Analyst,Reject,90179,0
+RES-00992,Candidate 0992,"JavaScript, React, HTML, CSS",2.6,Master's,3,Data Analyst,Reject,77050,6
+RES-00993,Candidate 0993,"JavaScript, React, HTML, CSS",6.0,Bachelor's,2,Web Developer,Reject,56608,4
+RES-00994,Candidate 0994,"Python, Scikit-learn, SQL",4.3,Bachelor's,3,Data Analyst,Hire,25000,8
+RES-00995,Candidate 0995,"Python, Networking, Linux",4.6,Master's,1,Data Analyst,Reject,37107,3
+RES-00996,Candidate 0996,"Python, Scikit-learn, SQL",4.7,Bachelor's,2,Web Developer,Hire,54898,4
+RES-00997,Candidate 0997,"JavaScript, React, HTML, CSS",4.9,Bachelor's,0,Cybersecurity Analyst,Hire,66685,3
+RES-00998,Candidate 0998,"Java, HTML, CSS",0.0,Bachelor's,0,Web Developer,Reject,53275,4
+RES-00999,Candidate 0999,"JavaScript, React, HTML, CSS",4.5,Master's,2,Web Developer,Hire,52760,4
+RES-01000,Candidate 1000,"Python, SQL, Pandas",3.3,Bachelor's,1,Data Analyst,Reject,59077,5
