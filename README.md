@@ -4,4 +4,4 @@ ML portfolio project predicting Hire/Reject from candidate data. The included 10
 
 Fields: Resume_ID, Name, Skills, Experience (Years), Education, Certifications, Job Role, Recruiter Decision, Salary Expectation ($), Projects Count.
 
-Run: `pip install -r requirements.txt`, then `python app/app.py`.
+Run: `pip install -r requirements.txt`, then `python train_model.py`.
